@@ -30,7 +30,7 @@ Sesi ini berfungsi sebagai **cooldown yang penuh petunjuk** setelah tekanan hila
 
 ## Part 1: Gondola Swans
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Di tepi kanal perak, dua angsa putih raksasa menunggu dengan leher melengkung anggun seperti penari opera. Airnya terlalu tenang untuk disebut alami, memantulkan cahaya lentera karnaval seperti lembaran kaca cair. Kabut tipis menggantung rendah di atas permukaan, dan suara tawa dari area lain terdengar jauh, seakan ditelan oleh danau itu sendiri.
 
 ### NPC: Feathereen
@@ -71,7 +71,7 @@ Jika kamu ingin memberi reward tambahan yang tetap aman dari jalur modul, sisipk
 
 ## Part 2: Carousel of Clues
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Musik calliope mengalun lembut ketika carousel berputar perlahan. Delapan unicorn berukir berdiri megah, masing-masing dengan ekspresi berbeda: sombong, lembut, sedih, liar, bijak. Lampu-lampu kecil berkelip pada pelananya, dan untuk sesaat, wahana ini terasa kurang seperti permainan dan lebih seperti ritual yang menunggu seseorang mengucapkan kata yang benar.
 
 ### NPC: Diana Cloppington

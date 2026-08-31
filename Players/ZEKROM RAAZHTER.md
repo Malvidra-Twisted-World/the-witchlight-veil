@@ -32,6 +32,6 @@ Tahun berlalu, dan Zekrom menyadari bahwa wanita itu telah menggunakan tingkatan
 
 --- column-break ---
 
-![[ZEKROM RAAZHTER.png|Zekrom Raazhter]]
+![Zekrom Raazhter](ZEKROM%20RAAZHTER.png)
 
 --- end-multi-column

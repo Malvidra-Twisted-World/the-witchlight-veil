@@ -1,3 +1,3 @@
-![[Bavlorna Blightstraw Image.png]]
+![](Bavlorna%20Blightstraw%20Image.png)
 
-![[Bavlorna Blightstraw.png]]
+![](Bavlorna%20Blightstraw.png)

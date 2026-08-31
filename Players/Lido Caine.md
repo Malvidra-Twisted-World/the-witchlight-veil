@@ -35,7 +35,7 @@ sejak kejadian itu, dia merasakan ada sesuatu yang penting dalam dirinya hilang,
 
 --- column-break ---
 
-![[Lido Caine.png|Lido Caine]]
+![Lido Caine](Lido%20Caine.png)
 
 --- end-multi-column
 

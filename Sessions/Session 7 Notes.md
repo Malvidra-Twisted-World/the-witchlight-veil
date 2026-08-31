@@ -186,7 +186,7 @@ Gabriel menatap mereka dan bertanya:
 
 # Notes
 
-> [!info] ## Yang terjadi hari ini
+> [!NOTE] <!--easygit-callout:original=info,collapse=--> ## Yang terjadi hari ini
 > Party curiga tiba-tiba disuruh jadi pengawal
 > Mereka diskusi untuk apa dan apa imbalan yang dapat diterima
 > 

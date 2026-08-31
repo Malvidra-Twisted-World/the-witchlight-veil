@@ -1,4 +1,4 @@
-![[Witchlight Veil.png]]
+![](Witchlight%20Veil.png)
 
 # TL;DR;
 
@@ -57,7 +57,7 @@ Offered for sale at Trinket, Bauble, and Charm's in Downfall (see *area D10* in 
 
 ### Concept
 
-Para player akan bertemu di sebuah tavern bernama ==*The Wandering Bard Tavern*== dimiliki oleh seorang Satyr bernama [[Lampiar]] di kota ==*Tayuka*== di Regional ==*Dewasentra*==, dunia ==*Dewanegara*==.
+Para player akan bertemu di sebuah tavern bernama <mark>*The Wandering Bard Tavern*</mark> dimiliki oleh seorang Satyr bernama [[Lampiar]] di kota <mark>*Tayuka*</mark> di Regional <mark>*Dewasentra*</mark>, dunia <mark>*Dewanegara*</mark>.
 
 Disini mereka tidak sengaja bertemu, dan terjadilah reuni dadakan, disini mereka akan bahas masa lalu termasuk problem masa kecil dulu membahas apa yang udah dikasih dari hook [[The Wild Beyond the Witchlight - Into the Feywild#Lost Things|Lost Things]]. Disini plot pointnya ada di job board yang ada di dalam tavern, dimana mereka akan menemukan selembaran quest yang sudah lama di tempel dan sudah tertiban beberapa lembaran quest yang baru lainnya.
 

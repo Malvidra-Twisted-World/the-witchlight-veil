@@ -1,3 +1,3 @@
-![[Agdon Longscarf.png]]![[Harengon Briggand.png]]
+![](Agdon%20Longscarf.png)![](Harengon%20Briggand.png)
 
-![[Briggans' Tollway.png]]
+![](../Map/Briggans'%20Tollway.png)

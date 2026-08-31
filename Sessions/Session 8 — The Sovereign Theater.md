@@ -20,7 +20,7 @@ date_played: 2026-06-19T19:00:00
 
 ## 🎙️ Recap untuk Dibacakan ke Pemain
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Downfall adalah kota yang dikepung oleh lumpur, kecemasan, dan rahasia. Kalian telah berhasil membebaskan Morgort melalui pertarungan sandiwara di Proving Grounds, dan secara diam-diam mengembalikan buku catatan buruk Bavlorna ke toko Trinket & Bauble—sekaligus secara tidak terduga berhasil membawa lari sebuah Tanduk Unicorn misterius dari toko tersebut.
 >
 > Sekarang, kalian berdiri di aula perjamuan Sinking Palace yang megah namun bobrok. Di sekeliling kalian, bangsawan Bullywug berbisik-bisik, dan di singgasananya, King Gullop XIX duduk dengan cemas.
@@ -75,7 +75,7 @@ Beri party waktu sebentar untuk menyamakan informasi (terutama kalau ada yang in
 
 **Lokasi:** Aula Perjamuan Sinking Palace
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Cahaya dari kunang-kunang ajaib meredup. Kabut tebal mulai bergulung di atas panggung kayu yang miring. Di hadapan kalian, puluhan bangsawan Bullywug menatap diam. Di sudut ruangan, melayang dengan tenang di atas lilypad-nya, Bavlorna Blightstraw menyaksikan dengan dagu yang bergelambir dan mata kuning besar yang tak berkedip.
 >
 > Musik sumbang calliope mulai mengalun lembut. Langkah pertama pementasan dimulai.
@@ -217,7 +217,7 @@ Bavlorna menyukai tema **utang dan transaksi dengan Hag** — ini tema favoritny
 Karena naskah ini **tidak menyebut nama Hag atau saudari-saudarinya secara spesifik**, Bavlorna tidak punya alasan untuk merasa tersindir atau curiga — ia menontonnya sebagai hiburan murni tentang "orang-orang kecil yang berutang", yang justru ia nikmati karena mengingatkannya pada kekuasaannya sendiri.
 
 **Tanggapan penutup Bavlorna setelah drama selesai:**
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Ketika pertunjukan berakhir dan lampu panggung padam, aula perjamuan sunyi sesaat... sebelum terdengar suara tepuk tangan basah dan lambat dari sudut ruangan.
 >
 > "Plok... plok... plok..."
@@ -241,7 +241,7 @@ Tepat setelah Bavlorna pergi dan perhatian court mulai terbagi, seorang pengawal
 
 Karena Bavlorna belum memanggil mereka dan sedang beristirahat, party punya waktu luang untuk menyelinap ke markas Illig.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Kabut tebal Downfall membantu kalian menyelinap keluar dari istana tanpa terlihat oleh para penjaga istana raja. Di pinggiran pemukiman Bullywug, di sebuah gubuk reyot yang dipenuhi bau keringat dan lumpur kering, kalian menemukan Baron Illig. Di atas meja kayu besar di tengah ruangan, sebuah peta pertahanan Downfall terbentang. Belati perak berputar di antara jemari berselaput sang Baron ketika ia menatap kedatangan kalian.
 
 ### Cara Membawakan Illig (Penting!)
@@ -272,7 +272,7 @@ Tidak perlu penjelasan lebih lanjut — biarkan menggantung sebagai komentar emp
 
 Party membawa gagasan kabinet ini ke Morgort atau langsung mempertemukan Gullop dan Illig dalam perundingan rahasia.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Suasana di ruang perundingan rahasia terasa sangat tegang. Morgort berdiri dengan tangan memegang gagang pedangnya, menatap tajam ke arah Baron Illig. Di seberangnya, Illig berdiri dengan tangan bersilang di dada. Di tengah-tengah mereka, King Gullop XIX meremas jemarinya dengan cemas, menatap mahkota emasnya yang sedikit terlalu besar untuk kepalanya.
 
 **Morgort:**
@@ -296,7 +296,7 @@ Downfall berhasil mematahkan siklus kudeta abadinya. Bullywug di Downfall kini b
 
 Setelah krisis politik terselesaikan, kabinet baru mengantar party ke dermaga.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Kabut Hither bergulung perlahan di atas permukaan danau perak. Di dermaga, Clapperclaw si orang-orangan sawah kecil berkepala labu sudah menunggu kalian. Kepalanya yang berisi koin bergemerincing pelan saat ia menatap jembatan kayu yang membentang menuju tengah rawa.
 >
 > "Urusan kalian dengan katak-katak politik itu sudah selesai?" tanya Clapperclaw. "Bagus. Karena monster sebenarnya ada di sana... di dalam pondok itu."
@@ -307,7 +307,7 @@ Setelah krisis politik terselesaikan, kabinet baru mengantar party ke dermaga.
 
 Jembatan kayu pondok diturunkan perlahan dengan suara derit kayu tua. Di seberang danau, pondok raksasa Bavlorna yang bengkok berdiri tegak, memancarkan bau ramuan asam dan taxidermy membusuk.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Pintu gerbang kayu pondok Bavlorna yang besar terbuka perlahan seakan-akan menyambut kedatangan kalian. Clapperclaw mundur selangkah, menolak untuk mendekati pintu itu. Kalian berdiri di depan ambang batas rumah sang Hag, bersiap untuk merebut kembali apa yang telah hilang.
 
 **DM Note: Hentikan sesi tepat di sini.** Eksplorasi pondok Bavlorna (Cottage Heist) dimulai di Sesi 9.

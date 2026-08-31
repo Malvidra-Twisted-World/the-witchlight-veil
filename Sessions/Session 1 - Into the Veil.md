@@ -16,7 +16,7 @@ The party reunites at **The Wandering Bard Tavern** in the town of **Tayuka**, r
 
 The adventure begins in the **Dewasentra** region, in the lively town of **Tayuka**.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > The town of Tayuka bustles with the energy of trade and travel, but inside **The Wandering Bard Tavern**, the atmosphere is warm and thick with the smell of spiced meats and sweet ale. The tavern is owned by **Lampiar**, an older Satyr with graying fur and a penchant for playing the pan flute while he pours drinks with his tail.
 > 
 > You find yourselves gathered at a round table near the hearth. Whether by fate or coincidence, you are all here together—faces from a shared past, united by a memory that feels like a splinter in your mind: The Witchlight Carnival, and the things you lost there as children.
@@ -34,7 +34,7 @@ The adventure begins in the **Dewasentra** region, in the lively town of **Tayuk
 
 ### The Call to Adventure: The Anchor
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > As the evening wears on, your eyes wander to the crowded "Jobs & Rumors" board near the entrance. Most notices are mundane—missing livestock, escort duty.
 > 
 > But one yellowed, crinkled paper seems to *humm* with a low vibration that only you can feel. It has been buried under newer notices, ignoring the passage of time. The seal on it is a stylized Pumpkin, but the words are written in a script that shifts as you read it.
@@ -57,7 +57,7 @@ If the players ask around about **Madryck Roslof**:
 
 The journey to Madryck's farm takes the party through a dense stretch of wood known as the **Veilwood**.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > You leave the comfort of Tayuka and head east. The road is well-traveled at first, but as you approach the coordinates of the Roslof farm, the trees grow taller, their branches interlacing like weaving fingers. The sunlight shifts, taking on a twilight hue of lavender and gold, even though it is midday. 
 > 
 > The air smells suddenly of blooming night-flowers and ozone. The forest is quiet—too quiet—and then, reality seems to *hiccup*.
@@ -100,7 +100,7 @@ Ask each player to roll on the **Fey Prank Table (d20)**. These effects are temp
 | 19  | **Headless.** You feel a lightness on your shoulders. You touch your neck and feel... nothing. You believe you have been decapitated and are carrying your head under your arm (even if you aren't).        |
 | 20  | **The "Lucky" Break.** You feel a bone snap, but it doesn't hurt. In fact, it feels *great*. You gain **Inspiration**, but you walk with a disturbing limp.                                                 |
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > As you push through the strange, vibrant thicket, the sensation of magic washes over you like a static shock. Then, as quickly as it began, the colors fade back to the greens and browns of the natural world. Ahead, the forest clears, revealing a sprawling farmhouse.
 
 ---
@@ -108,7 +108,7 @@ Ask each player to roll on the **Fey Prank Table (d20)**. These effects are temp
 ## Part 3: The Pumpkin Sanctuary
 
 ### Arrival
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > You emerge from the tree line to see a farmhouse that defies explanation. The yard is filled not with crops, but with **Giant Pumpkins**, some as large as small cottages, towering nearly 50 feet high. The scent of baking pumpkin pie wafts from the main house.
 > 
 > A small boy, perhaps eight years old, sits on the porch. He wears simple clothes, but his eyes are covered by a thin, sheer cloth blindfold. He tilts his head as you approach, his brow furrowing in confusion.
@@ -121,7 +121,7 @@ Ask each player to roll on the **Fey Prank Table (d20)**. These effects are temp
 ### Meeting Madryck
 Aris hesitantly leads the party inside.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > The interior is cozy, cluttered with arcane curios and half-finished pumpkin carvings. Sitting in a rocking chair is **Madryck Roslof**. He looks frail, almost startled by the intrusion. He nearly drops his carving knife.
 > 
 > "By Zybilna... visitors?" He squints at you, then at the crumpled notice in your hands. "That old thing? I posted that years ago. The paper is older than the boy standing next to you." He sighs, a mix of relief and sadness. "I had given up hope that anyone would answer."

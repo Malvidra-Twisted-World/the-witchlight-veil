@@ -26,7 +26,7 @@ Di kota yang dipenuhi intrik, tampaknya setiap orang menginginkan sesuatu dari H
 
 ## The Ritual of Sinking Mud
 
-> [!readaloud]  
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->  
 > Di bawah atap Gazebo yang berlumut, Raja Gullop XIX bangkit dari singgasananya yang sedikit tenggelam ke dalam lumpur.
 > 
 > Dua ksatria Bullywug membawa sebuah gayung perak berkarat yang dipenuhi cairan rawa berwarna kehijauan.
@@ -90,7 +90,7 @@ Minta setiap pemain melempar:
 
 Setelah semua selesai:
 
-> [!readaloud]  
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->  
 > Para bangsawan Bullywug memukul tombak mereka ke tanah.
 > 
 > "KWAK! KWAK! KWAK!"
@@ -105,7 +105,7 @@ Setelah para courtier disuruh menjauh, Gullop langsung kehilangan seluruh wibawa
 
 ## Private Audience
 
-> [!readaloud]  
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->  
 > Begitu para bangsawan mundur, bahu Gullop langsung merosot.
 > 
 > Ia menatap buku besar di pangkuannya.
@@ -170,7 +170,7 @@ Party bebas menentukan urutan.
 
 ## D16 — Illig, Baron of Muckstump
 
-> [!readaloud]  
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->  
 > Gubuk itu dipenuhi bau keringat, lumpur, dan kecemasan.
 > 
 > Peta Downfall memenuhi dinding.
@@ -230,7 +230,7 @@ Tidak perlu penjelasan lebih lanjut.
 
 ## D8 — Morgort, The Wart Knight
 
-> [!readaloud]  
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->  
 > Di balik jeruji akar mangrove, seorang ksatria Bullywug perempuan mengangkat kepalanya.
 > 
 > Saat mendengar nama Sir Talavar...
@@ -255,7 +255,7 @@ Jika diberitahu Talavar selamat:
 
 ## D10 — Trinket & Bauble
 
-> [!readaloud]  
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->  
 > Sebuah balon hitam bergoyang perlahan di atas air rawa.
 > 
 > Di bawahnya tergantung sebuah kios kecil yang penuh barang aneh.
@@ -343,7 +343,7 @@ Dan itu sudah merupakan kemenangan besar.
 
 ## Burned Balloon Factory (D4)
 
-> [!readaloud]  
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->  
 > Bau kayu hangus memenuhi udara.
 > 
 > Kerangka balon yang terbakar menjulang di atas rawa seperti tulang-belulang raksasa.
@@ -407,7 +407,7 @@ Nikmati kekacauan kreatif mereka.
 
 # 🎬 ENDING SCENE
 
-> [!readaloud]  
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->  
 > Kabut Hither perlahan semakin tebal.
 > 
 > Dari puncak kerangka balon yang hangus...

@@ -25,7 +25,7 @@ status: upcoming — belum didatangi
 
 ## 📍 Kedatangan
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Di depan, sekelompok kecil anak-anak bermain-main mengelilingi pohon ek besar, tawa mereka menggema lewat hutan. Ayunan bercat warna-warni tergantung dari dahannya. Bersarang di puncaknya, sebuah rumah pohon reyot berdiri.
 
 Kalau mereka lihat orang asing, anak-anak langsung kabur naik tangga, sembunyi di rumah pohon. Pemimpin mereka, **Will of the Feywild**, teriak dari atas: *"Menyerah sekarang atau rasakan akibatnya!"*

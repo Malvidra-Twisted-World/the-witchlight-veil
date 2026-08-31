@@ -267,4 +267,4 @@ Lanjut:
 >
 
 
-![[Session 5 Thumbnail.png]]
+![](../Session%205%20Thumbnail.png)

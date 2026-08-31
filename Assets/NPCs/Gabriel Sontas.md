@@ -1,3 +1,3 @@
-![[Gabriel Sontas Info.png]]
+![](Gabriel%20Sontas%20Info.png)
 
-![[Gabriel Sontas.png]]
+![](Gabriel%20Sontas.png)

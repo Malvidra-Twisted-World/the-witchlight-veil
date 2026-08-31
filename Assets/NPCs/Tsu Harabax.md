@@ -1,4 +1,4 @@
-![[Tsu Harabax.png]]
+![](Tsu%20Harabax.png)
 
 ```statblock
 name: Tsu Harabax

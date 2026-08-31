@@ -16,7 +16,7 @@ The party reaching the gates of the **Witchlight Carnival**. They navigate the e
 
 The forest yields to a sprawling clearing filled with heavy, sweet-smelling mist.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > The first stars of night twinkle above the apricot sunset. Giant dragonflies whir overhead, trailing streamers, and a low mist curls over the ground. Through a floral archway, you glimpse wondrous and vibrant creatures—elf stilt walkers, dancing faeries, and painted performers. Everywhere there is laughter, pixie dust, bubbles, and the wistful tune of a whistling calliope.
 
 **NPC: Aris (Lunaris Thoht)**
@@ -46,7 +46,7 @@ If characters want extra tickets or cannot pay, they can roll on the **Ticket Pa
 
 ## Part 3: Hour 1 - Welcome Gifts
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > A twelve-foot-tall walking tree (the treant sapling **Northwind**) garlanded in golden ribbons marches down the thoroughfare. Emerald clouds swirl above the tree and rain down golden, spinning **sycamore seeds**. 
 > 
 > A chatty squirrel named **Red** scampers along the boughs, handing dandelions to passersby. "Make a wish! Blow them away!"

@@ -16,7 +16,7 @@ Aris hilang! Setelah bertemu Palasha dan ke lomba makan kue di Feasting Orchard,
 
 ## Part 1: The Big Top Extravaganza (Hour 4)
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Sorotan lampu ajaib menyinari tenda terbesar di Witchlight Carnival. Suara penonton bergemuruh, menantikan atraksi utama pada pertengahan malam ini. Mister Light melayang di tengah arena dengan panggungnya, tersenyum lebar menyambut malam yang penuh keajaiban.
 
 Pemain yang sebelumnya sudah berdandan dan bersiap kini giliran tampil:

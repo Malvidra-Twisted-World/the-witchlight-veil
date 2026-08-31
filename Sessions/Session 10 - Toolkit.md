@@ -97,7 +97,7 @@ Sesi dibuka langsung di tengah combat. Ini satu-satunya beat yang dijamin terjad
 > [!NOTE] Cek dulu siapa yang hadir
 > Readaloud di bawah default-nya nyerang Aurelia. Kalau Eury (Aurelia) dan/atau Herry (Lido) absen sesi ini, ganti nama target sesuai skenario B/C di "Kontinjensi Kehadiran" di atas sebelum baca ini di meja.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Cakar hitam mencengkeram wajah Aurelia sebelum siapa pun sempat bereaksi. Sesuatu yang gelap dan berbulu kasar merayap turun dari punggung patung kodok, gerakannya terlalu cepat untuk benda yang tadinya diam seperti bagian dari patung itu sendiri.
 >
 > Dari kejauhan, di dalam kepala Lunaris, ia merasakan cengkeraman itu seolah terjadi di wajahnya sendiri.
@@ -181,7 +181,7 @@ Sudah dijawab (lihat twist di section Darkmantle di atas) — Charm diam karena 
 
 Setelah combat selesai dan party dapat thread-nya (Silver Thread Spool, mungkin juga kepala Clapperclaw dari B19), mereka keluar Hoard dan langsung disambut Bavlorna di kamarnya (B18) — sudah menunggu, tenang, senampan kue di tangan. Tidak ada omelan soal Lornling yang mati atau rumahnya diobrak-abrik. Ini justru lebih mengerikan: seolah semua ini sudah dia duga.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Bavlorna duduk di tepi ranjang jeraminya, senampan kue kecil di pangkuan selaputnya. Ia tidak terkejut melihat kalian berlumuran keringat, darah kecil, dan seorang wanita kayu yang berdiri kaku di antara kalian.
 >
 > "Ah," katanya, seolah sedang menyambut tamu yang datang tepat waktu untuk teh sore. "Kalian menemukan sesuatu di dalam rumahku. Rumahku selalu begitu murah hati, bukan?"

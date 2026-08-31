@@ -18,7 +18,7 @@ estimated_duration: 3-4 hours
 
 ## 🎙️ Recap untuk Dibacakan ke Pemain
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Downfall berubah dalam satu hari.
 >
 > Kalian datang sebagai tamu asing di kota rawa yang dikuasai rasa takut, intrik, dan siklus kudeta yang seolah tidak pernah berakhir. Namun melalui pertunjukan, negosiasi, dan keputusan-keputusan yang tidak biasa, kalian berhasil membuat King Gullop XIX dan Baron Illig duduk di meja yang sama. Untuk pertama kalinya dalam waktu yang lama, Downfall memiliki sesuatu yang mirip harapan.
@@ -42,8 +42,8 @@ estimated_duration: 3-4 hours
 
 ---
 
->[!info]
->![[Bavlorna's Cottage]]
+>[!NOTE] <!--easygit-callout:original=info,collapse=-->
+>[Bavlorna's Cottage.md](../../Map/Bavlorna's%20Cottage.md)
 
 ## 📈 Alur Sesi (7 Scene)
 
@@ -68,7 +68,7 @@ estimated_duration: 3-4 hours
 
 Gunakan scene ini untuk mengatur nada: rumah Bavlorna ramah, hidup, dan terlalu sadar pada kehadiran tamunya.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Tangga kayu tua berderit di bawah kaki kalian. Bukan seperti benda mati yang menahan berat tubuh, tapi seperti seseorang yang sedang menahan napas.
 >
 > Di lantai dua, bau teh herbal, jamur panggang, bawang yang dimasak lama, dan tanah basah bercampur menjadi aroma yang anehnya nyaman. Dari sebuah ruangan di depan, kalian mendengar sendok porselen menyentuh cangkir.
@@ -119,7 +119,7 @@ Pilih 2-3 saja.
 
 Scene ini adalah inti sesi: bukan interogasi, tapi makan siang yang secara perlahan berubah menjadi duel sosial.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Ruang makan itu lebih hangat daripada yang kalian bayangkan.
 >
 > Sebuah meja besar berdiri di tengah ruangan, penuh dengan piring jamur panggang, sup kental berwarna hijau tua, kue kecil berlapis gula, dan semangkuk lalat yang tampak seperti sudah dikaramelisasi. Di ujung meja, Bavlorna Blightstraw duduk dengan santai di atas kursi besar yang lembap, cangkir teh mungil nyaris hilang di antara jari-jarinya yang berselaput.
@@ -279,7 +279,7 @@ Gunakan scene ini ketika pemain ingat kantung Tsu, atau ketika pacing butuh teka
 
 ### Versi A — Party Mencari Sendiri
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Kalian kembali ke ruang manekin. Pakaian-pakaian tua masih berdiri di tubuh kayu tanpa wajah, menatap kosong ke arah ruangan.
 >
 > Di antara lipatan kain dan bayangan, kalian menemukan bekas seretan kecil di lantai. Ada bercak lumpur, serpihan kain dari kantung Tsu, dan bekas cakar yang terlalu lebar untuk tikus.
@@ -303,7 +303,7 @@ Gunakan scene ini ketika pemain ingat kantung Tsu, atau ketika pacing butuh teka
 
 Gunakan jika party terlalu lama mengabaikan kantung. Lornling tidak membawanya ke ruang makan, melainkan "merapikan" barang hilang ke hoard Bavlorna.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Salah satu Lornling lewat sambil menyeret kantung Tsu dengan bangga.
 >
 > "Barang tamu tercecer! Barang tamu menggigit! Barang tamu masuk mulut katak!"
@@ -322,7 +322,7 @@ Gunakan jika party terlalu lama mengabaikan kantung. Lornling tidak membawanya k
 
 ### Jika Unicorn Horn Terungkap
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Untuk pertama kalinya sepanjang makan siang, Bavlorna tidak tampak santai.
 >
 > Matanya bergerak ke arah kantung Tsu.
@@ -356,7 +356,7 @@ Gunakan 1-2 saja:
 
 ### Reveal Readaloud
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Di atas ruangan, dua kandang besi tergantung dari balok kayu tua. Awalnya kalian mengira isinya hanya kain lusuh, rantai, dan tulang kecil.
 >
 > Lalu salah satu "kain" itu bergerak. Kandang lain ikut bergoyang pelan, seolah penghuninya baru sadar ada suara yang sudah lama ia tunggu.
@@ -483,7 +483,7 @@ Jika party menuntut mereka dibebaskan:
 
 Scene ini adalah payoff utama Session 9. Di sini ada Lost Things milik Aurelia, Kee, dan Lido; kantung Tsu berada di dalam mulut bronze frog statue; Charm's shadow sedang mencuri Silver Thread Spool; dan Tsu bisa terkena kutukan marionette saat mengambil kantungnya.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Pintu ruangan ini membuka ke dalam bau debu tua, kain lembap, dan logam yang terlalu lama disimpan.
 >
 > Ruangan itu seperti loteng seorang penimbun: selimut, bantal, pakaian, alat musik, mainan, boneka, kotak perhiasan, vas bunga, peti kecil, dan furnitur patah menumpuk tanpa aturan.
@@ -510,7 +510,7 @@ Scene ini adalah payoff utama Session 9. Di sini ada Lost Things milik Aurelia, 
 
 Charm's shadow mencoba kabur membawa **Silver Thread Spool**.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Bayangan itu tidak bergerak seperti makhluk hidup. Ia meluncur di antara tumpukan barang, memeluk gulungan benang besar dengan dua lengan hitam pipih.
 >
 > Benang itu tampak berbeda bagi setiap orang yang melihatnya: warna rasa frustrasi, malu, dan self-doubt yang paling kalian kenal.
@@ -526,7 +526,7 @@ Charm's shadow mencoba kabur membawa **Silver Thread Spool**.
 
 ### Bronze Frog Statue
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Mulut katak perunggu itu terbuka lebar. Tidak ada lidah, tidak ada gigi, hanya gelap pekat yang tidak ditembus cahaya.
 >
 > Dari dalamnya terdengar suara seperti lumpur diaduk pelan.
@@ -555,7 +555,7 @@ Semua Lost Things yang dipegang Bavlorna ada di sini:
 
 Jika Aurelia menyebut "senyumku" atau sejenisnya:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Tanganmu menggenggam sesuatu yang lembut dan agak dingin.
 >
 > Saat ditarik keluar, benda itu tampak seperti boneka kelinci kecil berwarna pink pudar, agak lusuh dimakan waktu. Jahitan di wajahnya membentuk senyum yang terlalu lembut, terlalu manusiawi, dan terlalu familier untuk berada di benda mati.
@@ -566,7 +566,7 @@ Jika Aurelia menyebut "senyumku" atau sejenisnya:
 
 Jika party menyebut "rahasia Kee" atau nama Kee:
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Sebuah toples kaca muncul di tanganmu. Di dalamnya, lalat-lalat hitam beterbangan membentuk kata-kata yang tidak mau diam.
 >
 > Dari balik kaca, terdengar bisikan banyak suara. Beberapa suara milik Kee. Beberapa bukan.
@@ -580,7 +580,7 @@ Jika party menyebut "rahasia Kee" atau nama Kee:
 
 Jika Lido menyebut "kreativitasku", "imajinasiku", atau "rasa kagumku":
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Dari mulut katak, tanganmu menarik sebuah terrarium kecil sebesar lentera.
 >
 > Di dalamnya ada rawa mini, ranting-ranting halus, dan bayangan hewan yang terus berubah: rusa menjadi burung, burung menjadi ikan, ikan menjadi serigala, serigala menjadi bentuk yang tidak punya nama tapi terasa benar.
@@ -599,7 +599,7 @@ Kantung Tsu juga berada di dalam bronze frog mouth.
 
 Jika Tsu sendiri mengambilnya, jalankan kutukan marionette.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Tsu menatap mulut katak perunggu itu lama sekali.
 >
 > "Itu kantungku," katanya pelan. "Inn-ku ada di dalam sana."
@@ -612,7 +612,7 @@ Jika Tsu sendiri mengambilnya, jalankan kutukan marionette.
 
 ### Tsu Becomes a Marionette
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Tubuh Tsu tersentak mundur.
 >
 > Dari pergelangan tangannya, siku, bahu, lutut, dan leher, benang-benang tipis berwarna perak muncul seperti dijahit keluar dari kulitnya. Bukan darah yang menetes, melainkan serpihan kayu halus.
@@ -660,7 +660,7 @@ Jika Tsu sendiri mengambilnya, jalankan kutukan marionette.
 
 Ini adalah scene bargain. Bavlorna harus terasa seperti seseorang yang menawarkan jalan keluar, bukan boss yang memberi quest.
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Bavlorna meletakkan cangkir tehnya.
 >
 > Suara kecil porselen menyentuh meja terdengar terlalu jelas.
@@ -765,7 +765,7 @@ Pilih ending berdasarkan hasil sesi.
 
 ### Ending A — Bargain Dibuat
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Bavlorna menjilat ujung jarinya dan menekan udara di depan kalian. Untuk sesaat, kata-kata yang baru kalian sepakati menggantung seperti tinta basah.
 >
 > "Nah."
@@ -776,7 +776,7 @@ Gunakan jika party menerima tugas mengambil lukisan Skabatha, membawa pesan, men
 
 ### Ending B — Lido dan Zekrom Ikut Party
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Kandang itu turun perlahan.
 >
 > Saat pintunya terbuka, orang di dalamnya tidak langsung keluar. Ia menatap kalian, lalu lantai rumah Bavlorna, seolah lupa bagaimana rasanya memilih arah sendiri.
@@ -789,7 +789,7 @@ Gunakan jika Lido dan Zekrom resmi ikut party.
 
 ### Ending C — Charm Kabur
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Bavlorna menatap rak kosong itu lama sekali.
 >
 > Lalu ia tertawa.
@@ -802,7 +802,7 @@ Gunakan jika Charm berhasil membawa Silver Thread Spool. Ini bisa jadi hook side
 
 ### Ending D — Bavlorna Mengetahui Unicorn Horn
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Untuk pertama kalinya sepanjang makan siang, Bavlorna tidak tampak santai.
 >
 > Matanya bergerak ke arah kantung Tsu.
@@ -815,7 +815,7 @@ Gunakan jika party ceroboh membuka kantung/Inn/Unicorn Horn di depan Bavlorna.
 
 ### Ending E — Tsu Menjadi Marionette
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Tsu berdiri di ambang pintu pondok, kantungnya kembali di tangan.
 >
 > Angin Hither menggoyangkan benang-benang perak yang kini menggantung dari tubuhnya.
@@ -830,7 +830,7 @@ Gunakan jika kutukan Tsu menjadi cliffhanger utama.
 
 ### Ending F — Jalan ke Thither
 
-> [!readaloud]
+> [!NOTE] <!--easygit-callout:original=readaloud,collapse=-->
 > Di luar jendela, rawa Hither bergerak seperti sedang membuka jalan.
 >
 > Bavlorna tidak ikut melihat.
