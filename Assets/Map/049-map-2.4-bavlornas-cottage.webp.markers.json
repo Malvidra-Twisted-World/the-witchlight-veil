@@ -1,0 +1,301 @@
+{
+  "size": {
+    "w": 4200,
+    "h": 5700
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_f45sx1",
+      "x": 0.4949084130578793,
+      "y": 0.14340232253230945,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B18. Bavlorna's Bedroom",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_3uzieo",
+      "x": 0.5888832401287917,
+      "y": 0.16270000056757877,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B19. Bavlorna's Hoard",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_9go5za",
+      "x": 0.48126902603880023,
+      "y": 0.7409376680265692,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B1. Preservation Pool",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_iulvvg",
+      "x": 0.3549807374793616,
+      "y": 0.75249290328187,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B2. Taxidermy Workshop",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_h5h2m4",
+      "x": 0.6906989543203081,
+      "y": 0.6981523187440257,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B3. Fabric Storage Room",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_njnxbo",
+      "x": 0.6730875068794717,
+      "y": 0.7752024012976856,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B4. Rickety Stairs",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_lmxzgk",
+      "x": 0.6818932305998898,
+      "y": 0.82954298583553,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B5. Trove of Lesser Goodies",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_tn6ybx",
+      "x": 0.5390944116116883,
+      "y": 0.8735542218910218,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B6. Balcony",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_v4h6ys",
+      "x": 0.6774903687396808,
+      "y": 0.43861519856327663,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B4. Rickety Stairs",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_mxqkge",
+      "x": 0.39460649422124383,
+      "y": 0.4118504330446369,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B7. Hallway",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ry2wre",
+      "x": 0.3252614199229499,
+      "y": 0.3818414535237378,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B8. Guest Room",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_kgg02m",
+      "x": 0.39020363236103467,
+      "y": 0.3639982765113113,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B9. Secret Passage",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_phrpix",
+      "x": 0.4936708860759494,
+      "y": 0.35345458100396837,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B10. Study",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_7qpegp",
+      "x": 0.5872317006053935,
+      "y": 0.37291986501752455,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B11. Aviary",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_kll8m6",
+      "x": 0.6158503026967529,
+      "y": 0.452403108072879,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B12. Meat Locker",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_kwkavs",
+      "x": 0.6048431480462301,
+      "y": 0.49782210410451005,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B13. Kitchen",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_q7b4lx",
+      "x": 0.7424325811777656,
+      "y": 0.5262089766242795,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B14. Cages",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_8ek82v",
+      "x": 0.49697303247110625,
+      "y": 0.4637578570807867,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B15. Pantry",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_8b4ll7",
+      "x": 0.41552008805723717,
+      "y": 0.47835682009095387,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B16. Dining Room",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_iurih2",
+      "x": 0.4287286736378646,
+      "y": 0.5229647626220201,
+      "layer": "default",
+      "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B17. Hooch Distillery",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "D&D/Original Adventures/The Witchlight Veil/Assets/Map/049-map-2.4-bavlornas-cottage.webp",
+      "name": "Bavlorna's Cottage"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "D&D/Original Adventures/The Witchlight Veil/Assets/Map/049-map-2.4-bavlornas-cottage.webp",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {
+    "pinRed": 100
+  },
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_n7xk07",
+      "label": "Delete pin",
+      "createdAt": "2026-07-07T04:10:37.896Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_5pcy6c",
+          "x": 0.5908247350607494,
+          "y": 0.1547117074765707,
+          "layer": "default",
+          "link": "Session 9 Notes#Bavlorna's Hoard (B19)",
+          "iconKey": "pinRed",
+          "tooltip": ""
+        },
+        "index": 0
+      }
+    },
+    {
+      "id": "undo_822ep1",
+      "label": "Delete pin",
+      "createdAt": "2026-07-07T04:10:34.909Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_2bdrhb",
+          "x": 0.4904286626581433,
+          "y": 0.15191723222672265,
+          "layer": "default",
+          "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B18. Bavlorna's Bedroom",
+          "iconKey": "pinRed",
+          "tooltip": ""
+        },
+        "index": 0
+      }
+    },
+    {
+      "id": "undo_b0f900",
+      "label": "Delete pin",
+      "createdAt": "2026-07-07T04:09:45.807Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_55hlwq",
+          "x": 0.6821468174080391,
+          "y": 0.5401916272338366,
+          "layer": "default",
+          "link": "The Wild Beyond the Witchlight - Ch. 2 Hither#B13. Kitchen",
+          "iconKey": "pinRed",
+          "tooltip": ""
+        },
+        "index": 0
+      }
+    }
+  ]
+}
