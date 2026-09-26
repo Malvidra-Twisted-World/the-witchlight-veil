@@ -657,3 +657,151 @@ Ia melihat ke kursi kosong di depannya dan berbisik:
 
 Lalu semuanya menjadi gelap.
 
+## Vision 4 — Lunaris: The Experiment
+
+**Untuk:** Lunaris
+
+### Vision
+
+Kabut biru berubah menjadi sebuah ruangan batu.
+
+Dingin. Gelap.
+
+Di tengah ruangan terdapat sebuah meja eksperimen.
+
+Di atasnya terbaring seorang **anak kecil**.
+
+**Lunaris.**
+
+Tubuhnya diikat erat.
+
+Ia menangis dan berusaha memanggil seseorang.
+
+> “Aku mau pulang...”
+
+Tidak ada jawaban.
+
+Langkah kaki terdengar.
+
+Seseorang mendekat.
+
+**Warduke.**
+
+Di belakangnya berdiri beberapa orang yang tidak dikenal.
+
+Warduke membawa sebuah botol kecil berisi cairan biru bercahaya.
+
+> “Tahan dia.”
+
+Lunaris semakin panik.
+
+> “Jangan...”
+
+Jarum perlahan didekatkan ke lengannya.
+
+> “Aku takut...”
+
+Warduke hanya menjawab:
+
+> “Sebentar saja.”
+
+Jarum menusuk kulitnya.
+
+**Cairan Witchlight masuk ke dalam tubuh Lunaris.**
+
+Cahaya biru menyebar melalui pembuluh darahnya.
+
+Lunaris menjerit.
+
+Kemudian...
+
+**Sesuatu menjawab dari dalam dirinya.**
+
+Suara asing terdengar di kepalanya.
+
+> _“...akhirnya.”_
+
+Lunaris berhenti menangis.
+
+Ia menatap kosong ke langit-langit.
+
+> “Siapa...?”
+
+Suara itu menjawab.
+
+> _“Bukan siapa.”_
+
+> _“Aku adalah yang selama ini tidur.”_
+
+Tubuh Lunaris mulai bergetar.
+
+Darah keluar dari bekas suntikan.
+
+Namun darah itu bergerak sendiri.
+
+Membentuk pola seperti tangan.
+
+Warduke mundur.
+
+Untuk pertama kalinya, wajahnya terlihat takut.
+
+> “Apa yang terjadi?”
+
+Cahaya biru berubah menjadi merah.
+
+Lunaris menjerit.
+
+### Second Fragment
+
+Vision kembali.
+
+Ruangan eksperimen sudah hancur.
+
+Meja terbalik.
+
+Botol pecah.
+
+Warduke sudah tidak terlihat.
+
+Anak kecil itu berdiri sendirian di tengah ruangan.
+
+Di belakangnya ada sebuah **bayangan merah**.
+
+Bayangan itu jauh lebih besar daripada tubuh Lunaris.
+
+Ia bergerak ketika Lunaris bergerak.
+
+Kemudian berbisik:
+
+> _“Mereka pikir mereka menciptakanku.”_
+
+Bayangan itu mendekat ke telinga Lunaris.
+
+> _“Padahal mereka hanya membangunkanku.”_
+
+Vision berakhir.
+
+### Lore yang Didapat
+
+- Lunaris menjadi subjek eksperimen **sejak masih kecil**.
+    
+- Warduke terlibat langsung dalam eksperimen tersebut.
+    
+- **Endelyn berada di balik eksperimen**, atau setidaknya mengetahui dan mengizinkannya.
+    
+- Witchlight digunakan untuk mengubah tubuh Lunaris.
+    
+- Eksperimen tersebut secara tidak sengaja **membangunkan sebuah entitas yang sudah berada di dalam diri Lunaris**.
+    
+- Blood Hunter aspect Lunaris bukan sekadar efek eksperimen. Ada sesuatu yang lebih tua/asing di dalam dirinya.
+    
+
+### Detail — Success
+
+Sesaat sebelum vision berakhir, Lunaris kecil melihat simbol di meja eksperimen.
+
+Simbol tersebut sama dengan simbol yang terdapat pada **catatan penelitian para Myconid**.
+
+Di bawah simbol itu tertulis:
+
+> **AWAKENING**
