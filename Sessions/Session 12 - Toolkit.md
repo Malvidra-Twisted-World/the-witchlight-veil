@@ -87,7 +87,7 @@ Belum ada info pasti siapa yang hadir sesi ini. Dua hal penting tergantung siapa
 
 **Putuskan salah satu (atau gabungkan) sebelum sesi:**
 
-![Uploading file...r1zk6]()
+![](https://i.imgur.com/k36XKXX.jpeg)
 
 ## 🎭 Pincushion — Profil Cepat
 
