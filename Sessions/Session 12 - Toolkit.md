@@ -657,8 +657,6 @@ Ia melihat ke kursi kosong di depannya dan berbisik:
 
 Lalu semuanya menjadi gelap.
 
-Betul, berarti **Witchlight di campaign ini konsisten sebagai cairan ungu-magenta**, bukan biru. Biru khusus efek **tea ritual** saja. Kita rapihin biar nggak bentrok lore.
-
 ## Vision 4 — Lunaris: The Experiment
 
 **Untuk:** Lunaris
