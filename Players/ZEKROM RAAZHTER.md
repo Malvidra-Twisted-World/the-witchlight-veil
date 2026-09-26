@@ -35,3 +35,4 @@ Tahun berlalu, dan Zekrom menyadari bahwa wanita itu telah menggunakan tingkatan
 ![Zekrom Raazhter](ZEKROM%20RAAZHTER.png)
 
 --- end-multi-column
+![](https://i.imgur.com/F33D9a2.png)

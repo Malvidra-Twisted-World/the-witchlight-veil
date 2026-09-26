@@ -24,36 +24,6 @@ Belum ada info pasti siapa yang hadir sesi ini. Dua hal penting tergantung siapa
 
 ---
 
-## Session 12 — Player Attendance
-
-**Confirmed Players:** 6
-
-- Lorelei
-    
-- Philip
-    
-- Aurelia
-    
-- Lido
-    
-- Zekrom
-    
-- Lunaris
-    
-
-**Absent:**
-
-- Kee Chow Ma
-    
-
-**Notes:**
-
-- Tsu tetap hadir sebagai doll/marionette, tetapi tidak memiliki player vision.
-    
-- Semua 6 player yang hadir akan mengikuti **Witchlight Tea Ritual** dan menerima satu vision masing-masing.
-    
-- Vision akan ditentukan berdasarkan lore/character yang paling relevan dengan masing-masing PC.
-
 ## ⚡ At-a-Glance
 
 1. **Beat inti:** Party berdiri di depan pintu tak terbuka, dituntun Pincushion lewat trapdoor rahasia di belakang meja resepsionisnya. Ini payoff langsung dari reveal Thoht di akhir Sesi 11.
@@ -68,15 +38,15 @@ Belum ada info pasti siapa yang hadir sesi ini. Dua hal penting tergantung siapa
 
 ## 📍 Snapshot: Situasi Saat Ini
 
-| Siapa/Apa                                       | Lokasi                                                                  | Kondisi                                                                                 |
-| ----------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Party                                           | Di balik trapdoor Pincushion, depan pintu tak terbuka                   | Baru aja dituntun ke sini, belum buka pintu                                             |
-| **Pincushion**                                  | Bersama party (atau baru aja mengantar lalu ragu ikut masuk)            | Gugup, ngerasa gak seharusnya bawa mereka ke sini — lihat profil di bawah               |
-| **Will + Getaway Gang + Star**                  | Garden (L5), Loomlurch                                                  | Sedang jalankan distraksi mereka sendiri, nunggu waktu buat sinyal petasan magic        |
-| **Chucklehead**                                 | Goblin Market (L1/L2)                                                   | Kemungkinan masih di posnya, gak sadar party udah menyimpang dari rencana               |
-| **Skabatha (Granny Nightshade)**                | Kemungkinan di parlor (L3) atau rutinitas hariannya (kebun/dapur/study) | BELUM ketemu party langsung. Reservasi "James Bond" masih berlaku tapi belum dieksekusi |
-| Lukisan palsu Bavlorna (hasil Lorelei & Zekrom) | Dibawa party                                                            | Belum ditukar/diserahkan                                                                |
-| 8-Day Portrait Deadline                         | Berjalan sejak Sesi 10                                                  | Cek ulang sudah berapa hari lewat di meja — dekati/pas di pertengahan clock             |
+| Siapa/Apa | Lokasi | Kondisi |
+|---|---|---|
+| Party | Di balik trapdoor Pincushion, depan pintu tak terbuka | Baru aja dituntun ke sini, belum buka pintu |
+| **Pincushion** | Bersama party (atau baru aja mengantar lalu ragu ikut masuk) | Gugup, ngerasa gak seharusnya bawa mereka ke sini — lihat profil di bawah |
+| **Will + Getaway Gang + Star** | Garden (L5), Loomlurch | Sedang jalankan distraksi mereka sendiri, nunggu waktu buat sinyal petasan magic |
+| **Chucklehead** | Goblin Market (L1/L2) | Kemungkinan masih di posnya, gak sadar party udah menyimpang dari rencana |
+| **Skabatha (Granny Nightshade)** | Kemungkinan di parlor (L3) atau rutinitas hariannya (kebun/dapur/study) | BELUM ketemu party langsung. Reservasi "James Bond" masih berlaku tapi belum dieksekusi |
+| Lukisan palsu Bavlorna (hasil Lorelei & Zekrom) | Dibawa party | Belum ditukar/diserahkan |
+| 8-Day Portrait Deadline | Berjalan sejak Sesi 10 | Cek ulang sudah berapa hari lewat di meja — dekati/pas di pertengahan clock |
 
 ---
 
@@ -87,9 +57,22 @@ Belum ada info pasti siapa yang hadir sesi ini. Dua hal penting tergantung siapa
 
 **Putuskan salah satu (atau gabungkan) sebelum sesi:**
 
-![](https://i.imgur.com/k36XKXX.jpeg)
+### Opsi A — Ruang Mainan (Rekomendasi)
+Pintu terbuka ke ruang kecil yang **nyaris identik sama visi Lido**: dinding kayu pohon, rak-rak mainan, dan **delapan action figure tin soldier**. Enam di antaranya benar-benar mirip party (termasuk Kee) — ini bukan kebetulan atau residu mimpi acak, ini **daftar/inventaris** yang Skabatha simpan soal anak-anak (atau kelompok) yang dia incar atau sudah dia "catat" sebagai calon koleksi.
 
-![](https://i.imgur.com/VP4jwh4.jpeg)
+- **Implikasi besar:** Skabatha kemungkinan **sudah tahu/curiga siapa party sebenarnya**, jauh sebelum "reservasi James Bond" mereka. Ini mengubah drastis rasa aman rencana infiltrasi mereka — pertemuan yang tadinya dianggap "menyamar aman" bisa jadi sudah gak seaman itu.
+- **2 figure yang tak dikenal:** sengaja gak dijelasin sesi ini — bisa jadi NPC masa depan, korban lain, atau bahkan petunjuk soal siapa sebenarnya di balik topeng "anak kecil" dalam visi Lido. Simpan sebagai open thread.
+- **Interaksi opsional:** kalau ada yang pegang salah satu figure milik mereka sendiri, kasih flash visual singkat (mirror ke mekanik bronze frog statue B19 — "declare/rasakan sesuatu, dapat sepotong info personal") — bisa dipakai buat nge-deepen backstory siapa pun yang pegang.
+
+### Opsi B — Asal-usul Pincushion
+Ruangan ini ternyata tempat Pincushion "dibuat" — sebelum jadi living doll, dia (tersirat) dulunya juga anak yang diculik. Ada satu figure di rak yang mirip versi manusia dari dirinya. Lebih personal, lebih rendah stake, cocok kalau meja butuh momen tenang/emosional setelah beberapa sesi padat aksi.
+
+### Opsi C — Ditunda
+Ruangan kosong/samar, cuma atmosfer (bekas mainan berdebu, satu tin soldier tergeletak sendirian tanpa makna jelas dulu). Pincushion sendiri kelihatan bingung/kecewa gak nemu yang dia cari. Payoff besar ditunda ke sesi berikutnya — valid kalau kamu butuh napas sebelum reveal besar, tapi kurang memuaskan buat cliffhanger yang udah dibangun.
+
+> [!TIP] Boleh gabung A+B: ruangan berisi tin soldier "daftar incaran" (A) DAN salah satu figure lama yang ternyata Pincushion versi manusia (B) — dua reveal sekaligus tanpa saling tabrakan.
+
+---
 
 ## 🎭 Pincushion — Profil Cepat
 
@@ -145,97 +128,9 @@ Kalau party (setelah beat ruang mainan) inget soal reservasi mereka dan lanjut k
 3. Kalau party memilih gak lanjut ke pertemuan Skabatha sesi ini: itu valid, reservasi "James Bond" bisa tetap menggantung sebagai tekanan (Chucklehead/Pincushion mungkin nanya-nanya) buat sesi berikutnya.
 4. Kalau party menyimpang jauh dari toolkit ini: update carry-over & Campaign Memory setelah sesi, bukan paksa mereka balik ke rencana.
 
-## Session 12 — Witchlight Tea Ritual
-
-### Ritual Setup
-
-Pincushion membawa party menuju rumah dua **Myconid Witchlight Farmers** di bawah Loomlurch.
-
-Mereka adalah pekerja Skabatha yang menanam dan memanen **Witchlight Mushrooms**, tetapi diam-diam melakukan penelitian tentang fenomena Fey dan ingatan.
-
-Rumah mereka dipenuhi:
-
-- Buku tua
-    
-- Catatan penelitian
-    
-- Botol-botol cairan
-    
-- Jamur kering
-    
-- Catatan ritual dan ramalan
-    
-- Beberapa buku yang membahas **Hourglass Coven**
-    
-
-### The Tea
-
-Para Myconid menyiapkan teh biasa.
-
-Setelah teh dibagikan, salah satu dari mereka menambahkan beberapa tetes cairan bening ke setiap cangkir.
-
-Cairan tersebut membuat teh perlahan berubah menjadi **biru bercahaya**.
-
-> “Sebelum kalian minum, kalian harus memberikan sesuatu.”
-
-Mereka meminta setiap orang menceritakan **satu kenangan yang berarti**.
-
-Kenangan tersebut bisa bahagia, menyedihkan, memalukan, atau sesuatu yang sangat ingin mereka ingat.
-
-Setelah cerita selesai:
-
-> “Sekarang minum. Biarkan jamur mengingat apa yang kalian ceritakan.”
-
-### Vision Mechanic
-
-Setiap karakter melakukan **Constitution Saving Throw**.
-
-- **Success:** Vision jelas dan detail.
-    
-- **Failure:** Vision tetap terjadi, tetapi kabur, terpotong, atau beberapa detail sulit dipahami.
-    
-- **Advantage:** Karakter mendapat Advantage jika mereka benar-benar menceritakan kenangan yang personal dan bermakna.
-    
-
-**Semua karakter tetap mendapatkan vision.**
-
-Vision bukan sekadar ramalan. Mereka adalah **fragmen masa lalu yang berhasil ditarik keluar oleh ritual**.
-
----
-
-### Six Visions
-
-1. **Lorelei — Bavlorna: The Precious Children**
-    
-2. **Skabatha — The Last Prank**
-    
-3. **Philip — Endelyn: The Woman Behind the Curtain**
-    
-4. **Lunaris — The Experiment**
-    
-5. **Aurelia — Thasia: Before Zybilna**
-    
-6. **Zekrom — The Hourglass Coven: Three Sisters**
-
-### Vision Mechanic
-
-Setiap karakter melakukan **Constitution Saving Throw**.
-
-- **Success:** Vision jelas dan detail.
-    
-- **Failure:** Vision tetap terjadi, tetapi kabur dan beberapa detail sulit dipahami.
-    
-- **Failure:** Karakter juga mendapatkan **1 level Exhaustion**.
-    
-- **Advantage:** Karakter mendapat Advantage jika mereka benar-benar menceritakan kenangan yang personal dan bermakna.
-    
-
-**Semua karakter tetap mendapatkan vision.**
-
 ## Vision 1 — Bavlorna: The Precious Children
 
 **Untuk:** Lorelei
-
 ### Vision
 
 Kabut biru perlahan membuka sebuah rumah tua yang hangat.
@@ -321,13 +216,9 @@ Vision berakhir.
 ### Lore yang Didapat
 
 - Bavlorna **pernah benar-benar menyayangi anak-anak**.
-    
 - Namun rasa sayangnya berubah menjadi kebutuhan untuk **memiliki dan mengurung** mereka.
-    
 - Transformasinya menjadi hag terjadi setelah ia **jatuh ke dalam cauldron miliknya sendiri**.
-    
 - Motif “anak-anak adalah milikku” sudah ada **sebelum** transformasinya.
-    
 
 **Detail yang hanya terlihat jika Success:**  
 Di belakang salah satu rak terdapat tiga simbol yang sama dengan simbol **Hourglass Coven**, tetapi vision berakhir sebelum menjelaskan hubungan mereka.
@@ -439,13 +330,9 @@ Vision berakhir.
 ### Lore yang Didapat
 
 - Skabatha dulunya adalah Fey yang suka mengerjai anak-anak.
-    
 - **Tasha adalah anak yang mengutuknya**, tetapi Skabatha tidak mengetahui identitasnya.
-    
 - Kutukan tersebut menjadi salah satu titik balik hidup Skabatha.
-    
 - Setelah itu, kebenciannya terhadap anak-anak berkembang menjadi obsesi untuk **mengendalikan dan memanfaatkan mereka**.
-    
 
 ### Detail — Success
 
@@ -612,17 +499,11 @@ Vision berakhir.
 ### Lore yang Didapat
 
 - Endelyn berasal dari keluarga bangsawan dan sejak kecil mencintai teater.
-    
 - Ia hidup dalam tekanan keluarga dan tidak bebas menentukan hidupnya sendiri.
-    
 - Ia menemukan sihir yang memungkinkan dirinya melihat berbagai kemungkinan masa depan.
-    
 - Pengalaman tersebut membuatnya percaya bahwa **takdir adalah sesuatu yang dapat dikendalikan**.
-    
 - Ia kemudian menggunakan orang lain seperti aktor dan boneka dalam pertunjukannya.
-    
 - Transformasi fisiknya berkaitan dengan sihir yang ia gunakan.
-    
 
 ### Detail — Success
 
@@ -650,7 +531,7 @@ Lalu semuanya menjadi gelap.
 
 ### Vision
 
-Kabut biru perlahan berubah menjadi sebuah ruangan batu.
+Kabut biru berubah menjadi sebuah ruangan batu.
 
 Dingin. Gelap.
 
@@ -670,13 +551,13 @@ Tidak ada jawaban.
 
 Langkah kaki terdengar.
 
+Seseorang mendekat.
+
 **Warduke.**
 
-Di belakangnya berdiri beberapa sosok yang tidak dikenal.
+Di belakangnya berdiri beberapa orang yang tidak dikenal.
 
-Warduke membawa sebuah botol kecil berisi cairan **ungu-magenta yang bercahaya**.
-
-Cairan itu bergerak perlahan di dalam botol, seolah memiliki denyut kehidupan sendiri.
+Warduke membawa sebuah botol kecil berisi cairan biru bercahaya.
 
 > “Tahan dia.”
 
@@ -684,15 +565,19 @@ Lunaris semakin panik.
 
 > “Jangan...”
 
-Warduke mendekat.
+Jarum perlahan didekatkan ke lengannya.
 
-> “Aku hanya ingin melihat apa yang terjadi.”
+> “Aku takut...”
 
-Jarum ditusukkan ke lengannya.
+Warduke hanya menjawab:
+
+> “Sebentar saja.”
+
+Jarum menusuk kulitnya.
 
 **Cairan Witchlight masuk ke dalam tubuh Lunaris.**
 
-Cahaya ungu-magenta menyebar melalui pembuluh darahnya.
+Cahaya biru menyebar melalui pembuluh darahnya.
 
 Lunaris menjerit.
 
@@ -706,9 +591,11 @@ Suara asing terdengar di kepalanya.
 
 Lunaris berhenti menangis.
 
+Ia menatap kosong ke langit-langit.
+
 > “Siapa...?”
 
-Suara itu menjawab:
+Suara itu menjawab.
 
 > _“Bukan siapa.”_
 
@@ -728,9 +615,9 @@ Untuk pertama kalinya, wajahnya terlihat takut.
 
 > “Apa yang terjadi?”
 
-Cahaya **ungu-magenta** memenuhi ruangan.
+Cahaya biru berubah menjadi merah.
 
-Kemudian semuanya menjadi gelap.
+Lunaris menjerit.
 
 ### Second Fragment
 
@@ -742,13 +629,11 @@ Meja terbalik.
 
 Botol pecah.
 
-Cairan Witchlight mengalir di lantai seperti genangan cahaya **magenta**.
-
 Warduke sudah tidak terlihat.
 
 Anak kecil itu berdiri sendirian di tengah ruangan.
 
-Di belakangnya ada sebuah **bayangan merah gelap**.
+Di belakangnya ada sebuah **bayangan merah**.
 
 Bayangan itu jauh lebih besar daripada tubuh Lunaris.
 
@@ -758,7 +643,7 @@ Kemudian berbisik:
 
 > _“Mereka pikir mereka menciptakanku.”_
 
-Bayangan itu mendekat.
+Bayangan itu mendekat ke telinga Lunaris.
 
 > _“Padahal mereka hanya membangunkanku.”_
 
@@ -767,17 +652,11 @@ Vision berakhir.
 ### Lore yang Didapat
 
 - Lunaris menjadi subjek eksperimen **sejak masih kecil**.
-    
 - Warduke terlibat langsung dalam eksperimen tersebut.
-    
-- **Endelyn mengetahui atau terlibat dalam eksperimen tersebut.**
-    
+- **Endelyn berada di balik eksperimen**, atau setidaknya mengetahui dan mengizinkannya.
 - Witchlight digunakan untuk mengubah tubuh Lunaris.
-    
 - Eksperimen tersebut secara tidak sengaja **membangunkan sebuah entitas yang sudah berada di dalam diri Lunaris**.
-    
 - Blood Hunter aspect Lunaris bukan sekadar efek eksperimen. Ada sesuatu yang lebih tua/asing di dalam dirinya.
-    
 
 ### Detail — Success
 
@@ -792,40 +671,24 @@ Di bawah simbol itu tertulis:
 ## Witchlight Tea Ritual — Final Mechanic
 
 - Seluruh party **wajib meminum Witchlight Tea**.
-    
 - Setelah semua minum, ritual aktif.
-    
 - Setiap karakter menceritakan **satu memory yang bermakna**.
-    
 - Setiap karakter melakukan **Constitution Saving Throw**.
-    
 - **Success:** vision muncul dengan jelas.
-    
 - **Failure:** vision tetap muncul, tetapi kabur dan mendapatkan **1 level Exhaustion**.
-    
 - Jika memory yang diceritakan sangat personal, karakter mendapat **Advantage** pada save.
-    
 - Vision yang muncul **tidak terikat pada karakter tertentu**. DM bebas menentukan vision berdasarkan siapa yang paling relevan atau memilih secara acak.
-    
 - Setelah seluruh vision selesai, ritual membuka jalan untuk **berkomunikasi dengan Oracle**.
-    
 
 ### Current Active Party
 
 - Lorelei
-    
 - Philip
-    
 - Lido
-    
 - Zekrom
-    
 - Lunaris
-    
 - **Aurelia — absent**
-    
 - Kee Chow Ma — absent
-    
 
 **Catatan:** Tsu tidak ikut ritual sebagai participant karena statusnya sebagai doll/marionette.
 
@@ -912,13 +775,9 @@ Vision langsung terputus.
 ### Lore
 
 - Tasha pernah bertemu **Baba Yaga sebelum menjadi Zybilna**.
-    
 - Pertemuan mereka tampaknya merupakan titik penting dalam perjalanan Tasha.
-    
 - Belum diketahui apakah Tasha datang mencari Baba Yaga, atau justru **dipanggil olehnya**.
-    
 - Identitas dan tujuan Baba Yaga sengaja tetap misterius.
-    
 
 ### Detail — Success
 
@@ -1113,23 +972,13 @@ Vision berakhir.
 ### Lore
 
 - **Bavlorna, Skabatha, dan Endelyn sudah menjadi hags ketika peristiwa ini terjadi.**
-    
 - Mereka adalah anak-anak angkat Baba Yaga dan memiliki hubungan yang sangat buruk satu sama lain.
-    
 - Kebencian mereka bersifat **siklik**:
-    
     - Bavlorna paling membenci Skabatha.
-        
     - Skabatha paling membenci Endelyn.
-        
     - Endelyn paling membenci Bavlorna.
-        
 - Meski saling membenci, mereka mampu bekerja sama ketika memiliki musuh yang sama.
-    
 - Mereka merencanakan untuk menggunakan **magic yang terhubung dengan cauldron Zybilna** untuk memenjarakannya.
-    
 - Mereka masuk ke **Courtroom of the Palace of Heart's Desire** atas izin Zybilna sendiri.
-    
 - Zybilna tidak menyadari bahwa kunjungan tersebut adalah jebakan.
-    
 - Di sanalah **Hourglass Coven mengkhianati dan mengurung Zybilna**.

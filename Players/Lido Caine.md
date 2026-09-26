@@ -39,3 +39,4 @@ sejak kejadian itu, dia merasakan ada sesuatu yang penting dalam dirinya hilang,
 
 --- end-multi-column
 
+![](https://i.imgur.com/YUrqlMd.png)
