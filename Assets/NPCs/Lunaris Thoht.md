@@ -5,7 +5,8 @@ class: Monk 4 Blood Hunter 1
 background: Feylost
 proficiency_bonus: 3
 ---
-![](https://i.ibb.co/LzXPWVfB/image.png)
+![](https://i.imgur.com/7LK77iQ.png)
+
 
 ![](https://i.imgur.com/viDOXR0.jpeg)
 
