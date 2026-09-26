@@ -801,3 +801,142 @@ Simbol tersebut sama dengan simbol yang terdapat pada **catatan penelitian para 
 Di bawah simbol itu tertulis:
 
 > **AWAKENING**
+
+## Witchlight Tea Ritual — Final Mechanic
+
+- Seluruh party **wajib meminum Witchlight Tea**.
+    
+- Setelah semua minum, ritual aktif.
+    
+- Setiap karakter menceritakan **satu memory yang bermakna**.
+    
+- Setiap karakter melakukan **Constitution Saving Throw**.
+    
+- **Success:** vision muncul dengan jelas.
+    
+- **Failure:** vision tetap muncul, tetapi kabur dan mendapatkan **1 level Exhaustion**.
+    
+- Jika memory yang diceritakan sangat personal, karakter mendapat **Advantage** pada save.
+    
+- Vision yang muncul **tidak terikat pada karakter tertentu**. DM bebas menentukan vision berdasarkan siapa yang paling relevan atau memilih secara acak.
+    
+- Setelah seluruh vision selesai, ritual membuka jalan untuk **berkomunikasi dengan Oracle**.
+    
+
+### Current Active Party
+
+- Lorelei
+    
+- Philip
+    
+- Lido
+    
+- Zekrom
+    
+- Lunaris
+    
+- **Aurelia — absent**
+    
+- Kee Chow Ma — absent
+    
+
+**Catatan:** Tsu tidak ikut ritual sebagai participant karena statusnya sebagai doll/marionette.
+
+---
+
+## Vision 5 — Tasha: Before Zybilna
+
+**Trigger:** Lore fragment, tidak terikat pada player tertentu.
+
+### Vision
+
+Kabut biru berubah menjadi sebuah hutan Fey yang luas.
+
+Seorang gadis muda berjalan sendirian di antara pepohonan.
+
+**Tasha.**
+
+Ia belum mengenakan mahkota.
+
+Belum ada istana.
+
+Belum ada Hourglass Coven.
+
+Hanya seorang gadis yang tampak penasaran dengan dunia di sekelilingnya.
+
+Ia berhenti di depan sebuah pohon tua.
+
+Di batang pohon itu terdapat bekas cakaran besar.
+
+Tasha menyentuhnya.
+
+> “Siapa yang melakukan ini?”
+
+Terdengar suara tawa dari balik pepohonan.
+
+Tasha menoleh.
+
+Tidak ada siapa-siapa.
+
+Kemudian terdengar suara perempuan tua.
+
+> “Kau terlalu banyak bertanya.”
+
+Tasha mengikuti suara tersebut.
+
+Semakin jauh ia berjalan, semakin gelap hutan itu.
+
+Sampai akhirnya ia melihat sebuah rumah.
+
+Rumah itu berdiri sendirian di tengah hutan.
+
+Pintunya terbuka.
+
+Tasha mendekat.
+
+Di dalamnya terdapat seorang perempuan tua.
+
+**Baba Yaga.**
+
+Perempuan itu sedang mengaduk sesuatu di dalam sebuah cauldron.
+
+Ia tidak melihat Tasha.
+
+Namun kemudian berkata:
+
+> “Akhirnya kau datang.”
+
+Tasha berhenti.
+
+> “Kau siapa?”
+
+Baba Yaga tersenyum.
+
+> “Pertanyaan yang lebih baik adalah...”
+
+Ia menoleh.
+
+Matanya bertemu dengan mata Tasha.
+
+> “...siapa yang ingin kau menjadi?”
+
+Vision langsung terputus.
+
+### Lore
+
+- Tasha pernah bertemu **Baba Yaga sebelum menjadi Zybilna**.
+    
+- Pertemuan mereka tampaknya merupakan titik penting dalam perjalanan Tasha.
+    
+- Belum diketahui apakah Tasha datang mencari Baba Yaga, atau justru **dipanggil olehnya**.
+    
+- Identitas dan tujuan Baba Yaga sengaja tetap misterius.
+    
+
+### Detail — Success
+
+Sebelum vision benar-benar menghilang, terlihat sebuah benda di meja Baba Yaga:
+
+**sebuah mahkota kecil.**
+
+Mahkota tersebut kemudian berubah menjadi siluet mahkota yang kelak dikenakan **Zybilna**.
