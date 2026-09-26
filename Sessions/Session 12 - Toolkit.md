@@ -157,3 +157,75 @@ Kalau party (setelah beat ruang mainan) inget soal reservasi mereka dan lanjut k
 2. Kalau bingung apa yang "sah" ada di ruang mainan: kembali ke Opsi A/B/C di atas, pilih yang paling nyambung sama reaksi meja saat itu — boleh dicampur, jangan dipaksa sesuai rencana kalau party bereaksi beda.
 3. Kalau party memilih gak lanjut ke pertemuan Skabatha sesi ini: itu valid, reservasi "James Bond" bisa tetap menggantung sebagai tekanan (Chucklehead/Pincushion mungkin nanya-nanya) buat sesi berikutnya.
 4. Kalau party menyimpang jauh dari toolkit ini: update carry-over & Campaign Memory setelah sesi, bukan paksa mereka balik ke rencana.
+
+## Session 12 — Witchlight Tea Ritual
+
+### Ritual Setup
+
+Pincushion membawa party menuju rumah dua **Myconid Witchlight Farmers** di bawah Loomlurch.
+
+Mereka adalah pekerja Skabatha yang menanam dan memanen **Witchlight Mushrooms**, tetapi diam-diam melakukan penelitian tentang fenomena Fey dan ingatan.
+
+Rumah mereka dipenuhi:
+
+- Buku tua
+    
+- Catatan penelitian
+    
+- Botol-botol cairan
+    
+- Jamur kering
+    
+- Catatan ritual dan ramalan
+    
+- Beberapa buku yang membahas **Hourglass Coven**
+    
+
+### The Tea
+
+Para Myconid menyiapkan teh biasa.
+
+Setelah teh dibagikan, salah satu dari mereka menambahkan beberapa tetes cairan bening ke setiap cangkir.
+
+Cairan tersebut membuat teh perlahan berubah menjadi **biru bercahaya**.
+
+> “Sebelum kalian minum, kalian harus memberikan sesuatu.”
+
+Mereka meminta setiap orang menceritakan **satu kenangan yang berarti**.
+
+Kenangan tersebut bisa bahagia, menyedihkan, memalukan, atau sesuatu yang sangat ingin mereka ingat.
+
+Setelah cerita selesai:
+
+> “Sekarang minum. Biarkan jamur mengingat apa yang kalian ceritakan.”
+
+### Vision Mechanic
+
+Setiap karakter melakukan **Constitution Saving Throw**.
+
+- **Success:** Vision jelas dan detail.
+    
+- **Failure:** Vision tetap terjadi, tetapi kabur, terpotong, atau beberapa detail sulit dipahami.
+    
+- **Advantage:** Karakter mendapat Advantage jika mereka benar-benar menceritakan kenangan yang personal dan bermakna.
+    
+
+**Semua karakter tetap mendapatkan vision.**
+
+Vision bukan sekadar ramalan. Mereka adalah **fragmen masa lalu yang berhasil ditarik keluar oleh ritual**.
+
+---
+
+### Six Visions
+
+1. **Lorelei — Bavlorna: The Precious Children**
+    
+2. **Skabatha — The Last Prank**
+    
+3. **Philip — Endelyn: The Woman Behind the Curtain**
+    
+4. **Lunaris — The Experiment**
+    
+5. **Aurelia — Thasia: Before Zybilna**
+    
+6. **Zekrom — The Hourglass Coven: Three Sisters**
