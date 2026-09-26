@@ -940,3 +940,209 @@ Sebelum vision benar-benar menghilang, terlihat sebuah benda di meja Baba Yaga:
 **sebuah mahkota kecil.**
 
 Mahkota tersebut kemudian berubah menjadi siluet mahkota yang kelak dikenakan **Zybilna**.
+
+## Vision 6 — The Hourglass Coven: The Betrayal
+
+**Trigger:** Lore fragment, tidak terikat pada player tertentu.
+
+### Vision
+
+Kabut biru membuka sebuah ruangan gelap.
+
+Tiga sosok berdiri mengelilingi meja.
+
+**Bavlorna. Skabatha. Endelyn.**
+
+Mereka sudah menjadi **hags**.
+
+Di atas meja terdapat sebuah gambar seorang perempuan muda.
+
+**Zybilna.**
+
+Ketiganya saling menatap dengan kebencian yang hampir terasa nyata.
+
+Bavlorna menatap Skabatha.
+
+> “Aku muak melihat wajahmu.”
+
+Skabatha mendengus.
+
+> “Perasaan yang sama.”
+
+Endelyn tertawa kecil.
+
+> “Kalian berdua benar-benar menjijikkan.”
+
+Bavlorna menoleh.
+
+> “Dan kau pikir dirimu lebih baik?”
+
+Endelyn terdiam.
+
+Skabatha tersenyum.
+
+> “Kalian berdua memang cocok.”
+
+### The Hatred
+
+Untuk sesaat, vision memperlihatkan mereka satu per satu.
+
+**Bavlorna → Skabatha**
+
+Kebenciannya terlihat paling kuat.
+
+Bavlorna membenci sifat Skabatha yang menganggap segala sesuatu sebagai mainan yang bisa dimiliki dan dikendalikan.
+
+**Skabatha → Endelyn**
+
+Skabatha membenci Endelyn karena selalu merasa dirinya lebih tahu daripada kedua saudarinya.
+
+**Endelyn → Bavlorna**
+
+Endelyn membenci Bavlorna karena sifatnya yang impulsif, rakus, dan terlalu mudah dikendalikan oleh emosinya.
+
+Namun meskipun mereka saling membenci...
+
+Mereka memiliki satu hal yang sama.
+
+**Mereka membenci Zybilna.**
+
+---
+
+### The Plan
+
+Bavlorna meletakkan sebuah botol di atas meja.
+
+Skabatha membawa sebuah benda kecil yang terbuat dari kayu.
+
+Endelyn membuka sebuah buku mantra.
+
+Di tengah meja terdapat gambar **cauldron milik Zybilna**.
+
+Endelyn menunjuknya.
+
+> “Kekuatan terbesar yang ia miliki juga akan menjadi penjaranya.”
+
+Skabatha tersenyum.
+
+> “Kita tidak perlu membunuhnya.”
+
+Bavlorna menambahkan:
+
+> “Kita hanya perlu memastikan dia tidak pernah bisa keluar.”
+
+Ketiganya mulai mempersiapkan sebuah ritual.
+
+Tiga sihir berbeda.
+
+Satu tujuan.
+
+**Mengurung Zybilna di dalam sihir cauldron miliknya sendiri.**
+
+---
+
+### Palace of Heart's Desire
+
+Vision berubah.
+
+Sebuah pintu besar terbuka.
+
+**Zybilna** berdiri di dalam **Courtroom of the Palace of Heart's Desire**.
+
+Ia terlihat santai.
+
+Tidak curiga.
+
+Ketika melihat ketiga hag datang, ia tersenyum.
+
+> “Saudari-saudariku.”
+
+Ia mengangkat tangannya.
+
+> “Masuklah.”
+
+Ketiga hag berjalan memasuki ruangan.
+
+Bavlorna tersenyum.
+
+Skabatha menundukkan kepala.
+
+Endelyn hanya tersenyum tipis.
+
+Zybilna menunjuk tempat di hadapannya.
+
+> “Apa yang membawa kalian kemari?”
+
+Endelyn menjawab:
+
+> “Kami datang untuk berbicara.”
+
+Zybilna duduk.
+
+> “Kalau begitu, mari kita bicara.”
+
+Pintu courtroom tertutup.
+
+**THOOM.**
+
+Simbol-simbol Fey muncul di lantai.
+
+Zybilna berdiri.
+
+> “Apa yang kalian lakukan?”
+
+Bavlorna tertawa.
+
+Skabatha mulai mengucapkan mantra.
+
+Endelyn mengangkat tangannya.
+
+Tiga kekuatan menyatu.
+
+Sihir menjalar dari lantai menuju tubuh Zybilna.
+
+Ia mencoba melawan.
+
+Namun ritual telah dimulai.
+
+> “Kalian...”
+
+Zybilna menatap mereka satu per satu.
+
+> “...mengkhianatiku.”
+
+Endelyn menjawab pelan:
+
+> “Tidak.”
+
+Ia tersenyum.
+
+> “Kami hanya akhirnya melakukan sesuatu yang sudah seharusnya dilakukan sejak lama.”
+
+Cahaya memenuhi ruangan.
+
+Vision berakhir.
+
+### Lore
+
+- **Bavlorna, Skabatha, dan Endelyn sudah menjadi hags ketika peristiwa ini terjadi.**
+    
+- Mereka adalah anak-anak angkat Baba Yaga dan memiliki hubungan yang sangat buruk satu sama lain.
+    
+- Kebencian mereka bersifat **siklik**:
+    
+    - Bavlorna paling membenci Skabatha.
+        
+    - Skabatha paling membenci Endelyn.
+        
+    - Endelyn paling membenci Bavlorna.
+        
+- Meski saling membenci, mereka mampu bekerja sama ketika memiliki musuh yang sama.
+    
+- Mereka merencanakan untuk menggunakan **magic yang terhubung dengan cauldron Zybilna** untuk memenjarakannya.
+    
+- Mereka masuk ke **Courtroom of the Palace of Heart's Desire** atas izin Zybilna sendiri.
+    
+- Zybilna tidak menyadari bahwa kunjungan tersebut adalah jebakan.
+    
+- Di sanalah **Hourglass Coven mengkhianati dan mengurung Zybilna**.
