@@ -344,3 +344,128 @@ Vision berakhir.
 
 **Detail yang hanya terlihat jika Success:**  
 Di belakang salah satu rak terdapat tiga simbol yang sama dengan simbol **Hourglass Coven**, tetapi vision berakhir sebelum menjelaskan hubungan mereka.
+
+## Vision 2 — Skabatha: The Last Prank
+
+**Untuk:** Philip
+
+### Vision
+
+Kabut biru berubah menjadi halaman sebuah rumah besar.
+
+Seorang perempuan Fey muda bersembunyi di balik pohon.
+
+Di depannya ada seorang anak perempuan kecil.
+
+**Tasha.**
+
+Anak itu sedang membawa boneka kesayangannya.
+
+Perempuan Fey itu tersenyum jahil.
+
+> “Sedikit kejutan tidak akan menyakitinya.”
+
+Ia menggunakan sihir kecil untuk membuat boneka Tasha tiba-tiba bergerak sendiri.
+
+Tasha terkejut.
+
+Ia menjatuhkan bonekanya.
+
+Perempuan itu tertawa dari balik pohon.
+
+> “Hahaha! Lihat wajahmu!”
+
+Tasha tidak tertawa.
+
+Ia mengambil bonekanya perlahan.
+
+Kemudian menatap ke arah perempuan Fey tersebut.
+
+> “Aku tidak suka.”
+
+Perempuan itu masih tersenyum.
+
+> “Ayolah. Cuma bercanda.”
+
+Tasha mengangkat tangannya.
+
+Udara di sekitar mereka berubah.
+
+Perempuan Fey itu mulai menyadari sesuatu.
+
+> “Tunggu...”
+
+Sihir Fey meledak.
+
+Tubuhnya mulai berubah.
+
+Kulitnya mengeras seperti kayu tua.
+
+Tubuhnya mengecil dan membungkuk.
+
+Rambutnya berubah menjadi benang kusut.
+
+Tangannya menjadi seperti cakar yang terbuat dari ranting.
+
+Ia menjerit.
+
+> “APA YANG KAU LAKUKAN?!”
+
+Tasha hanya mengambil kembali bonekanya.
+
+> “Sekarang kamu juga tahu rasanya.”
+
+Tasha pergi.
+
+Perempuan itu tertinggal sendirian.
+
+Ia tidak tahu siapa anak tersebut.
+
+### Years Later
+
+Vision melompat.
+
+Bertahun-tahun kemudian.
+
+Perempuan yang kini menjadi **Skabatha** berdiri di sebuah ruangan penuh anak-anak.
+
+Mereka bekerja.
+
+Menjahit.
+
+Membuat mainan.
+
+Membawa barang.
+
+Salah satu anak menjatuhkan sesuatu.
+
+Skabatha langsung membentak.
+
+> “Anak-anak memang tidak pernah bisa dipercaya.”
+
+Ia menatap mereka semua.
+
+> “Kalau begitu, jangan beri mereka kesempatan untuk memilih.”
+
+Vision berakhir.
+
+### Lore yang Didapat
+
+- Skabatha dulunya adalah Fey yang suka mengerjai anak-anak.
+    
+- **Tasha adalah anak yang mengutuknya**, tetapi Skabatha tidak mengetahui identitasnya.
+    
+- Kutukan tersebut menjadi salah satu titik balik hidup Skabatha.
+    
+- Setelah itu, kebenciannya terhadap anak-anak berkembang menjadi obsesi untuk **mengendalikan dan memanfaatkan mereka**.
+    
+
+### Detail — Success
+
+Sesaat sebelum vision berakhir, terdengar suara perempuan tua dari kejauhan:
+
+> “Anak itu akan menjadi sesuatu yang jauh lebih besar daripada yang kau bayangkan.”
+
+Skabatha tidak mendengarnya.
+
+Hanya karakter yang mengalami vision yang mendengar suara tersebut.
