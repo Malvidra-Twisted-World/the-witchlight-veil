@@ -245,3 +245,102 @@ Setiap karakter melakukan **Constitution Saving Throw**.
 
 **Semua karakter tetap mendapatkan vision.**
 
+## Vision 1 — Bavlorna: The Precious Children
+
+**Untuk:** Lorelei
+
+### Vision
+
+Kabut biru perlahan membuka sebuah rumah tua yang hangat.
+
+Terdengar suara anak-anak tertawa.
+
+Di dalam rumah, seorang perempuan Fey muda sedang menyiapkan makanan untuk beberapa anak kecil. Ia tertawa, menyisir rambut mereka, membacakan cerita, dan memastikan mereka tidur dengan nyaman.
+
+Di wajahnya belum ada wujud hag.
+
+Ia terlihat... bahagia.
+
+Salah satu anak bertanya:
+
+> “Kapan aku boleh pulang?”
+
+Perempuan itu terdiam.
+
+Senyumnya perlahan hilang.
+
+> “Pulang?”
+
+Ia memeluk anak itu lebih erat.
+
+> “Tapi kamu sudah di rumah.”
+
+Vision berubah.
+
+Kini terlihat lebih banyak anak. Puluhan.
+
+Semuanya tinggal di rumah tersebut.
+
+Beberapa menangis meminta pulang.
+
+Perempuan itu tetap merawat mereka.
+
+Memberi makan.  
+Membuatkan pakaian.  
+Menghibur mereka ketika menangis.
+
+Tetapi **tidak pernah membiarkan mereka pergi.**
+
+> “Aku hanya ingin menjaga kalian.”
+
+Kemudian terdengar suara gelembung mendidih.
+
+Sebuah cauldron besar.
+
+Perempuan itu sedang membuat ramuan sambil mengawasi anak-anak.
+
+Salah satu anak berlari melewatinya.
+
+Ia kehilangan keseimbangan.
+
+**Byur.**
+
+Tubuhnya jatuh ke dalam cauldron.
+
+Cairan Fey meledak menjadi cahaya hijau kekuningan.
+
+Ketika asap menghilang...
+
+Yang berdiri di sana bukan lagi perempuan tadi.
+
+Melainkan **Bavlorna**.
+
+Ia melihat tangannya sendiri.
+
+Kemudian melihat anak-anak.
+
+Anak-anak mundur ketakutan.
+
+Bavlorna tersenyum.
+
+> “Jangan takut, sayang.”
+
+Ia membuka kedua tangannya.
+
+> “Mama masih di sini.”
+
+Vision berakhir.
+
+### Lore yang Didapat
+
+- Bavlorna **pernah benar-benar menyayangi anak-anak**.
+    
+- Namun rasa sayangnya berubah menjadi kebutuhan untuk **memiliki dan mengurung** mereka.
+    
+- Transformasinya menjadi hag terjadi setelah ia **jatuh ke dalam cauldron miliknya sendiri**.
+    
+- Motif “anak-anak adalah milikku” sudah ada **sebelum** transformasinya.
+    
+
+**Detail yang hanya terlihat jika Success:**  
+Di belakang salah satu rak terdapat tiga simbol yang sama dengan simbol **Hourglass Coven**, tetapi vision berakhir sebelum menjelaskan hubungan mereka.
