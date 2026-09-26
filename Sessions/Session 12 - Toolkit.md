@@ -24,6 +24,36 @@ Belum ada info pasti siapa yang hadir sesi ini. Dua hal penting tergantung siapa
 
 ---
 
+## Session 12 — Player Attendance
+
+**Confirmed Players:** 6
+
+- Lorelei
+    
+- Philip
+    
+- Aurelia
+    
+- Lido
+    
+- Zekrom
+    
+- Lunaris
+    
+
+**Absent:**
+
+- Kee Chow Ma
+    
+
+**Notes:**
+
+- Tsu tetap hadir sebagai doll/marionette, tetapi tidak memiliki player vision.
+    
+- Semua 6 player yang hadir akan mengikuti **Witchlight Tea Ritual** dan menerima satu vision masing-masing.
+    
+- Vision akan ditentukan berdasarkan lore/character yang paling relevan dengan masing-masing PC.
+
 ## ⚡ At-a-Glance
 
 1. **Beat inti:** Party berdiri di depan pintu tak terbuka, dituntun Pincushion lewat trapdoor rahasia di belakang meja resepsionisnya. Ini payoff langsung dari reveal Thoht di akhir Sesi 11.
@@ -38,15 +68,15 @@ Belum ada info pasti siapa yang hadir sesi ini. Dua hal penting tergantung siapa
 
 ## 📍 Snapshot: Situasi Saat Ini
 
-| Siapa/Apa | Lokasi | Kondisi |
-|---|---|---|
-| Party | Di balik trapdoor Pincushion, depan pintu tak terbuka | Baru aja dituntun ke sini, belum buka pintu |
-| **Pincushion** | Bersama party (atau baru aja mengantar lalu ragu ikut masuk) | Gugup, ngerasa gak seharusnya bawa mereka ke sini — lihat profil di bawah |
-| **Will + Getaway Gang + Star** | Garden (L5), Loomlurch | Sedang jalankan distraksi mereka sendiri, nunggu waktu buat sinyal petasan magic |
-| **Chucklehead** | Goblin Market (L1/L2) | Kemungkinan masih di posnya, gak sadar party udah menyimpang dari rencana |
-| **Skabatha (Granny Nightshade)** | Kemungkinan di parlor (L3) atau rutinitas hariannya (kebun/dapur/study) | BELUM ketemu party langsung. Reservasi "James Bond" masih berlaku tapi belum dieksekusi |
-| Lukisan palsu Bavlorna (hasil Lorelei & Zekrom) | Dibawa party | Belum ditukar/diserahkan |
-| 8-Day Portrait Deadline | Berjalan sejak Sesi 10 | Cek ulang sudah berapa hari lewat di meja — dekati/pas di pertengahan clock |
+| Siapa/Apa                                       | Lokasi                                                                  | Kondisi                                                                                 |
+| ----------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Party                                           | Di balik trapdoor Pincushion, depan pintu tak terbuka                   | Baru aja dituntun ke sini, belum buka pintu                                             |
+| **Pincushion**                                  | Bersama party (atau baru aja mengantar lalu ragu ikut masuk)            | Gugup, ngerasa gak seharusnya bawa mereka ke sini — lihat profil di bawah               |
+| **Will + Getaway Gang + Star**                  | Garden (L5), Loomlurch                                                  | Sedang jalankan distraksi mereka sendiri, nunggu waktu buat sinyal petasan magic        |
+| **Chucklehead**                                 | Goblin Market (L1/L2)                                                   | Kemungkinan masih di posnya, gak sadar party udah menyimpang dari rencana               |
+| **Skabatha (Granny Nightshade)**                | Kemungkinan di parlor (L3) atau rutinitas hariannya (kebun/dapur/study) | BELUM ketemu party langsung. Reservasi "James Bond" masih berlaku tapi belum dieksekusi |
+| Lukisan palsu Bavlorna (hasil Lorelei & Zekrom) | Dibawa party                                                            | Belum ditukar/diserahkan                                                                |
+| 8-Day Portrait Deadline                         | Berjalan sejak Sesi 10                                                  | Cek ulang sudah berapa hari lewat di meja — dekati/pas di pertengahan clock             |
 
 ---
 
