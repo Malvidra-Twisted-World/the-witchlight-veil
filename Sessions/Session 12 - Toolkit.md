@@ -470,3 +470,189 @@ Skabatha tidak mendengarnya.
 
 Hanya karakter yang mengalami vision yang mendengar suara tersebut.
 
+## Vision 3 — Endelyn: The Woman Behind the Curtain
+
+**Untuk:** Aurelia
+
+### Vision
+
+Kabut biru berubah menjadi sebuah ballroom megah.
+
+Seorang gadis muda berdiri di tengah ruangan, mengenakan gaun bangsawan.
+
+Di sekelilingnya, para bangsawan berbicara, tertawa, dan berdansa.
+
+Namun gadis itu hanya menatap sebuah panggung kecil di ujung ruangan.
+
+Di atas panggung, sebuah pertunjukan sedang berlangsung.
+
+Matanya berbinar.
+
+> “Suatu hari nanti... aku akan punya panggungku sendiri.”
+
+Namun suara dari belakangnya memotong.
+
+> “Tidak.”
+
+Ayahnya.
+
+> “Keluarga kita tidak membutuhkan pertunjukan.”
+
+Ibunya menambahkan:
+
+> “Kamu akan menikah dengan keluarga yang tepat. Itu jauh lebih penting.”
+
+Gadis itu menunduk.
+
+### Years Later
+
+Ia tumbuh menjadi perempuan bangsawan yang terjebak dalam kehidupan yang tidak pernah ia pilih.
+
+Setiap malam ia diam-diam pergi ke teater.
+
+Ia menghafalkan dialog.
+
+Mempelajari tata panggung.
+
+Menulis cerita.
+
+Namun suatu malam, ia menemukan sesuatu di ruang bawah tanah teater.
+
+Sebuah buku tua.
+
+Halaman-halamannya dipenuhi simbol aneh.
+
+Di salah satu halaman tertulis:
+
+> **“Masa depan bukan sesuatu yang harus ditunggu.”**
+
+Ia membaca mantra.
+
+Seketika seluruh ruangan dipenuhi benang cahaya.
+
+Ia melihat ribuan kemungkinan.
+
+Orang-orang menikah.
+
+Kerajaan runtuh.
+
+Anak-anak mati.
+
+Perang dimulai.
+
+Seseorang menangis.
+
+Seseorang tertawa.
+
+Semua kemungkinan itu terjadi sekaligus.
+
+Ia berteriak.
+
+> “Berhenti!”
+
+Semuanya menghilang.
+
+Tetapi sejak malam itu...
+
+Ia mulai **melihat masa depan orang lain.**
+
+### The First Puppet
+
+Suatu hari, keluarganya kembali memaksanya melakukan sesuatu yang tidak ia inginkan.
+
+Untuk pertama kalinya ia mencoba kekuatannya pada seseorang.
+
+Ia melihat masa depan orang tersebut.
+
+Kemudian berkata:
+
+> “Kalau kau melakukan ini... semuanya akan berakhir buruk.”
+
+Orang itu menurut.
+
+Dan masa depan yang ia lihat pun berubah.
+
+Perempuan itu terdiam.
+
+Ia baru menyadari sesuatu.
+
+**Masa depan bukan hanya sesuatu yang bisa dilihat.**
+
+**Masa depan bisa dimainkan.**
+
+Vision berubah.
+
+Kini perempuan itu berdiri di atas panggung.
+
+Ratusan benang menggantung dari langit-langit.
+
+Di ujung setiap benang terdapat seseorang.
+
+Bangsawan.
+
+Prajurit.
+
+Raja.
+
+Anak-anak.
+
+Semua bergerak mengikuti tangannya.
+
+Tubuhnya sendiri mulai berubah.
+
+Kulitnya menjadi pucat.
+
+Rambutnya memanjang seperti benang.
+
+Matanya menjadi besar dan gelap.
+
+Ia tersenyum.
+
+> “Kalau semua orang punya takdir...”
+
+Ia menarik satu benang.
+
+> “...maka aku hanya perlu memegang benangnya.”
+
+Di belakangnya berdiri sebuah papan pertunjukan.
+
+Tertulis:
+
+**ENDLYN NIGHTSHADE**
+
+Vision berakhir.
+
+### Lore yang Didapat
+
+- Endelyn berasal dari keluarga bangsawan dan sejak kecil mencintai teater.
+    
+- Ia hidup dalam tekanan keluarga dan tidak bebas menentukan hidupnya sendiri.
+    
+- Ia menemukan sihir yang memungkinkan dirinya melihat berbagai kemungkinan masa depan.
+    
+- Pengalaman tersebut membuatnya percaya bahwa **takdir adalah sesuatu yang dapat dikendalikan**.
+    
+- Ia kemudian menggunakan orang lain seperti aktor dan boneka dalam pertunjukannya.
+    
+- Transformasi fisiknya berkaitan dengan sihir yang ia gunakan.
+    
+
+### Detail — Success
+
+Sesaat sebelum vision berakhir, terlihat satu masa depan yang berbeda.
+
+Endelyn berdiri sendirian di atas panggung.
+
+Tidak ada penonton.
+
+Tidak ada boneka.
+
+Tidak ada keluarga.
+
+Tidak ada siapa pun.
+
+Ia melihat ke kursi kosong di depannya dan berbisik:
+
+> “Aku cuma ingin seseorang melihat pertunjukanku.”
+
+Lalu semuanya menjadi gelap.
