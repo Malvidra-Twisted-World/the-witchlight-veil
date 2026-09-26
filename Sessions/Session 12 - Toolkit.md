@@ -656,3 +656,4 @@ Ia melihat ke kursi kosong di depannya dan berbisik:
 > “Aku cuma ingin seseorang melihat pertunjukanku.”
 
 Lalu semuanya menjadi gelap.
+
