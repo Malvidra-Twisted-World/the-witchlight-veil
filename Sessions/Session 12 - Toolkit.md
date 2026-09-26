@@ -492,7 +492,7 @@ Di belakangnya berdiri sebuah papan pertunjukan.
 
 Tertulis:
 
-**ENDLYN NIGHTSHADE**
+**ENDLYN MOONGRAVE**
 
 Vision berakhir.
 
