@@ -72,4 +72,4 @@ spells:
   - 2nd level (3 slots): lesser restoration, moonbeam
 ```
 
-![Uploading file...nim7n]()
+![](https://i.imgur.com/Pe7pZwH.jpeg)
