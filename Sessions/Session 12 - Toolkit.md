@@ -657,13 +657,15 @@ Ia melihat ke kursi kosong di depannya dan berbisik:
 
 Lalu semuanya menjadi gelap.
 
+Betul, berarti **Witchlight di campaign ini konsisten sebagai cairan ungu-magenta**, bukan biru. Biru khusus efek **tea ritual** saja. Kita rapihin biar nggak bentrok lore.
+
 ## Vision 4 — Lunaris: The Experiment
 
 **Untuk:** Lunaris
 
 ### Vision
 
-Kabut biru berubah menjadi sebuah ruangan batu.
+Kabut biru perlahan berubah menjadi sebuah ruangan batu.
 
 Dingin. Gelap.
 
@@ -683,13 +685,13 @@ Tidak ada jawaban.
 
 Langkah kaki terdengar.
 
-Seseorang mendekat.
-
 **Warduke.**
 
-Di belakangnya berdiri beberapa orang yang tidak dikenal.
+Di belakangnya berdiri beberapa sosok yang tidak dikenal.
 
-Warduke membawa sebuah botol kecil berisi cairan biru bercahaya.
+Warduke membawa sebuah botol kecil berisi cairan **ungu-magenta yang bercahaya**.
+
+Cairan itu bergerak perlahan di dalam botol, seolah memiliki denyut kehidupan sendiri.
 
 > “Tahan dia.”
 
@@ -697,19 +699,15 @@ Lunaris semakin panik.
 
 > “Jangan...”
 
-Jarum perlahan didekatkan ke lengannya.
+Warduke mendekat.
 
-> “Aku takut...”
+> “Aku hanya ingin melihat apa yang terjadi.”
 
-Warduke hanya menjawab:
-
-> “Sebentar saja.”
-
-Jarum menusuk kulitnya.
+Jarum ditusukkan ke lengannya.
 
 **Cairan Witchlight masuk ke dalam tubuh Lunaris.**
 
-Cahaya biru menyebar melalui pembuluh darahnya.
+Cahaya ungu-magenta menyebar melalui pembuluh darahnya.
 
 Lunaris menjerit.
 
@@ -723,11 +721,9 @@ Suara asing terdengar di kepalanya.
 
 Lunaris berhenti menangis.
 
-Ia menatap kosong ke langit-langit.
-
 > “Siapa...?”
 
-Suara itu menjawab.
+Suara itu menjawab:
 
 > _“Bukan siapa.”_
 
@@ -747,9 +743,9 @@ Untuk pertama kalinya, wajahnya terlihat takut.
 
 > “Apa yang terjadi?”
 
-Cahaya biru berubah menjadi merah.
+Cahaya **ungu-magenta** memenuhi ruangan.
 
-Lunaris menjerit.
+Kemudian semuanya menjadi gelap.
 
 ### Second Fragment
 
@@ -761,11 +757,13 @@ Meja terbalik.
 
 Botol pecah.
 
+Cairan Witchlight mengalir di lantai seperti genangan cahaya **magenta**.
+
 Warduke sudah tidak terlihat.
 
 Anak kecil itu berdiri sendirian di tengah ruangan.
 
-Di belakangnya ada sebuah **bayangan merah**.
+Di belakangnya ada sebuah **bayangan merah gelap**.
 
 Bayangan itu jauh lebih besar daripada tubuh Lunaris.
 
@@ -775,7 +773,7 @@ Kemudian berbisik:
 
 > _“Mereka pikir mereka menciptakanku.”_
 
-Bayangan itu mendekat ke telinga Lunaris.
+Bayangan itu mendekat.
 
 > _“Padahal mereka hanya membangunkanku.”_
 
@@ -787,7 +785,7 @@ Vision berakhir.
     
 - Warduke terlibat langsung dalam eksperimen tersebut.
     
-- **Endelyn berada di balik eksperimen**, atau setidaknya mengetahui dan mengizinkannya.
+- **Endelyn mengetahui atau terlibat dalam eksperimen tersebut.**
     
 - Witchlight digunakan untuk mengubah tubuh Lunaris.
     
