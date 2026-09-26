@@ -89,6 +89,8 @@ Belum ada info pasti siapa yang hadir sesi ini. Dua hal penting tergantung siapa
 
 ![](https://i.imgur.com/k36XKXX.jpeg)
 
+![](https://i.imgur.com/VP4jwh4.jpeg)
+
 ## 🎭 Pincushion — Profil Cepat
 
 - **Wujud:** Living doll, resepsionis Skabatha (secara modul biasanya di Sewing Room/L9, tapi di campaign ini dia sudah jadi wajah pertama yang party temui — lanjutkan posisi itu, gak perlu dikoreksi).
