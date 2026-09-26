@@ -469,3 +469,4 @@ Sesaat sebelum vision berakhir, terdengar suara perempuan tua dari kejauhan:
 Skabatha tidak mendengarnya.
 
 Hanya karakter yang mengalami vision yang mendengar suara tersebut.
+
