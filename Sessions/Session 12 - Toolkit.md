@@ -87,22 +87,7 @@ Belum ada info pasti siapa yang hadir sesi ini. Dua hal penting tergantung siapa
 
 **Putuskan salah satu (atau gabungkan) sebelum sesi:**
 
-### Opsi A — Ruang Mainan (Rekomendasi)
-Pintu terbuka ke ruang kecil yang **nyaris identik sama visi Lido**: dinding kayu pohon, rak-rak mainan, dan **delapan action figure tin soldier**. Enam di antaranya benar-benar mirip party (termasuk Kee) — ini bukan kebetulan atau residu mimpi acak, ini **daftar/inventaris** yang Skabatha simpan soal anak-anak (atau kelompok) yang dia incar atau sudah dia "catat" sebagai calon koleksi.
-
-- **Implikasi besar:** Skabatha kemungkinan **sudah tahu/curiga siapa party sebenarnya**, jauh sebelum "reservasi James Bond" mereka. Ini mengubah drastis rasa aman rencana infiltrasi mereka — pertemuan yang tadinya dianggap "menyamar aman" bisa jadi sudah gak seaman itu.
-- **2 figure yang tak dikenal:** sengaja gak dijelasin sesi ini — bisa jadi NPC masa depan, korban lain, atau bahkan petunjuk soal siapa sebenarnya di balik topeng "anak kecil" dalam visi Lido. Simpan sebagai open thread.
-- **Interaksi opsional:** kalau ada yang pegang salah satu figure milik mereka sendiri, kasih flash visual singkat (mirror ke mekanik bronze frog statue B19 — "declare/rasakan sesuatu, dapat sepotong info personal") — bisa dipakai buat nge-deepen backstory siapa pun yang pegang.
-
-### Opsi B — Asal-usul Pincushion
-Ruangan ini ternyata tempat Pincushion "dibuat" — sebelum jadi living doll, dia (tersirat) dulunya juga anak yang diculik. Ada satu figure di rak yang mirip versi manusia dari dirinya. Lebih personal, lebih rendah stake, cocok kalau meja butuh momen tenang/emosional setelah beberapa sesi padat aksi.
-
-### Opsi C — Ditunda
-Ruangan kosong/samar, cuma atmosfer (bekas mainan berdebu, satu tin soldier tergeletak sendirian tanpa makna jelas dulu). Pincushion sendiri kelihatan bingung/kecewa gak nemu yang dia cari. Payoff besar ditunda ke sesi berikutnya — valid kalau kamu butuh napas sebelum reveal besar, tapi kurang memuaskan buat cliffhanger yang udah dibangun.
-
-> [!TIP] Boleh gabung A+B: ruangan berisi tin soldier "daftar incaran" (A) DAN salah satu figure lama yang ternyata Pincushion versi manusia (B) — dua reveal sekaligus tanpa saling tabrakan.
-
----
+![Uploading file...r1zk6]()
 
 ## 🎭 Pincushion — Profil Cepat
 
