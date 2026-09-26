@@ -229,3 +229,19 @@ Vision bukan sekadar ramalan. Mereka adalah **fragmen masa lalu yang berhasil di
 5. **Aurelia — Thasia: Before Zybilna**
     
 6. **Zekrom — The Hourglass Coven: Three Sisters**
+
+### Vision Mechanic
+
+Setiap karakter melakukan **Constitution Saving Throw**.
+
+- **Success:** Vision jelas dan detail.
+    
+- **Failure:** Vision tetap terjadi, tetapi kabur dan beberapa detail sulit dipahami.
+    
+- **Failure:** Karakter juga mendapatkan **1 level Exhaustion**.
+    
+- **Advantage:** Karakter mendapat Advantage jika mereka benar-benar menceritakan kenangan yang personal dan bermakna.
+    
+
+**Semua karakter tetap mendapatkan vision.**
+
