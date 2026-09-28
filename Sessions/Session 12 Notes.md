@@ -46,7 +46,7 @@ Saat di kediaman para Myconids yang aku berinama Ruti dan Giro, dengan informasi
 
 _(Item baru, status quest/thread, perubahan hubungan NPC)_
 
-Setelah ritual selesai dan Ruti&Giro membereskan barang, mereka tiba-tiba mendapatkan kabar bahwa Skabatha TAU ada orang yang ke tempat mereka. Dengan panik Pincushion menawarkan para party untuk menusuk mereka dengan jarum berbentuk hati dari tubuhnya ke diri mereka, dengan kesetujuan dan singkat cerita, para player diubah menjadi mainan dengan versi masing-masing. Skabatha datang dan mendapati Ruti&Giro sedang pura-pura bersantai setmnaruh Party ang menjadi mainan ke rak seolah-olah mereka adalah dekorasi. Skabatha lalu menginterogasi Ruti&Giro menanyakan soal Pincushion, walau mengelak mereka tidak bisa mengelabui Skabatha yang menemukan Pincushion yang sudah di sembunyikan oleh Ruti&Giro, sebagai hukman, 
+Setelah ritual selesai dan Ruti&Giro membereskan barang, mereka tiba-tiba mendapatkan kabar bahwa Skabatha TAU ada orang yang ke tempat mereka. Dengan panik Pincushion menawarkan para party untuk menusuk mereka dengan jarum berbentuk hati dari tubuhnya ke diri mereka, dengan kesetujuan dan singkat cerita, para player diubah menjadi mainan dengan versi masing-masing. Skabatha datang dan mendapati Ruti&Giro sedang pura-pura bersantai setmnaruh Party ang menjadi mainan ke rak seolah-olah mereka adalah dekorasi. Skabatha lalu menginterogasi Ruti&Giro menanyakan soal Pincushion, walau mengelak mereka tidak bisa mengelabui Skabatha yang menemukan Pincushion yang sudah di sembunyikan oleh Ruti&Giro, sebagai hukman, Ruti dan Giro disihir oleh Skabatha dan mereka terlihat tak bernyawa (tidak tau mati atau tidak), mereka dibawa oleh Skabatha, lalu pergi
 
 ## Cliffhanger / Ending
 
