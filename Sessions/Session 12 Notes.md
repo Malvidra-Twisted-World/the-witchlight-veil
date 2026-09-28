@@ -7,7 +7,7 @@ status: pending
 theme:
 npcs:
   - "[[Skabatha Nightshade]]"
-  - "[[Luminous Champion Aloft]]"
+  - "[[Pincushion]]"
 location: Thither
 prep: "[[Session 12 - Toolkit]]"
 previous: "[[Session 11 Notes]]"
