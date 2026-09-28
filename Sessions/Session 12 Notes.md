@@ -7,7 +7,7 @@ status: pending
 theme:
 npcs: []
 location:
-prep: ""
+prep: "[[Session 12 - Toolkit]]"
 previous: "[[Session 11 Notes]]"
 ---
 # Session {{title}} Notes
