@@ -5,8 +5,10 @@ date_played: 2026-09-26T20:00:00
 session_number: 12
 status: pending
 theme:
-npcs: []
-location:
+npcs:
+  - "[[Skabatha Nightshade]]"
+  - "[[Luminous Champion Aloft]]"
+location: Thither
 prep: "[[Session 12 - Toolkit]]"
 previous: "[[Session 11 Notes]]"
 ---
