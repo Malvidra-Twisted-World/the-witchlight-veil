@@ -8,7 +8,7 @@ theme:
 npcs: []
 location:
 prep: ""
-previous: ""
+previous: "[[Session 11 Notes]]"
 ---
 # Session {{title}} Notes
 
