@@ -21,11 +21,15 @@ previous: "[[Session 11 Notes]]"
 
 ## Attendance
 
--
-
+- [[Lido Caine]]
+- [[D&D/Original Adventures/The Witchlight Veil/Players/Lorelei S. Duboise|Lorelei S. Duboise]]
+- [[ZEKROM RAAZHTER]]
+- [[Philip Nessryn]]
 ## Opening & Recap
 
 _(Bagaimana sesi dibuka, apa yang terjadi dari beat yang sudah pasti di toolkit)_
+
+Awalnya player phillip belum join
 
 ## Important Player Choices
 
