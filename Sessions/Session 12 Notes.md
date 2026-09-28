@@ -29,7 +29,7 @@ previous: "[[Session 11 Notes]]"
 
 _(Bagaimana sesi dibuka, apa yang terjadi dari beat yang sudah pasti di toolkit)_
 
-Awalnya player phillip belum join
+Awalnya player phillip belum join,
 
 ## Important Player Choices
 
