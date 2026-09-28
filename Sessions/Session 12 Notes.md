@@ -1,8 +1,8 @@
 ---
 type: session_notes
 campaign: The Witchlight Veil
-date_played:
-session_number:
+date_played: 2026-09-26T20:00:00
+session_number: 12
 status: pending
 theme:
 npcs: []
