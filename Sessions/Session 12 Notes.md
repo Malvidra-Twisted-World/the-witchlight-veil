@@ -24,16 +24,7 @@ previous: "[[Session 11 Notes]]"
 - [[Lido Caine]]
 - [[D&D/Original Adventures/The Witchlight Veil/Players/Lorelei S. Duboise|Lorelei S. Duboise]]
 - [[ZEKROM RAAZHTER]]
-- [[Philip Nessryn]] — late join, masuk menjelang akhir sesi sebelum party berpindah dimensi ke kamar Thania
-
-### Absent
-
-- Aurelia
-- Kee Chow Ma
-
-> [!NOTE] Late Join — Philip
-> Philip belum hadir saat mayoritas kejadian sesi berlangsung. Ia baru bergabung ke Discord menjelang akhir sesi, sebelum party berpindah dimensi ke kamar Thania. Karena itu Philip tidak mengikuti perjalanan Under Thither, ritual Oracle, memory sacrifice/vision, kedatangan Skabatha, maupun awal perjalanan party dalam bentuk mainan. Mulai titik sebelum transisi ke kamar Thania, Philip kembali aktif bersama party dan ikut mengalami kejadian setelahnya.
-
+- [[Philip Nessryn]]
 ## Opening & Recap
 
 _(Bagaimana sesi dibuka, apa yang terjadi dari beat yang sudah pasti di toolkit)_
@@ -61,7 +52,7 @@ Setelah ritual selesai dan Ruti&Giro membereskan barang, mereka tiba-tiba mendap
 
 _(Sesi berakhir di titik apa)_
 
-Party dalam bentuk mainan berhasil keluar akibat kekuatan tubuh Zekrom sebagai mainan metal yang bisa berubah menjadi Mainan Kereta, lewat lubang tikus di bawah mereka berhasil kembali ke atas di area garden dan bertemu seorang naak kecil bernama Mishka yang sedang ketakutan karena ada ular di dekatnya, arty berhasil mengusir ular tersebut. Dengan Mishka party mencoba membujuknya untuk mengarahkan party ke area bingkai foto, disini Party mempelajari bahwa Miskha adalah salah satu anak yang diculik Skabatha tapi anehnya origin storynya dia bilang kalau Skabatha mengajak Mishka ke Thither karena Mishka bisa "magic", di bingka party melihat gambar foto Bavlornya namun saat party mencoba meraih bingkai, party tergores oleh duri yang mengitari bingkai dan lukisan bingkai berubah seolah menampilkan foto keluarga atau sosok keluarga bagi anggota yan gbaru saja tergores, namun saat Mishka yang tergores susnan lukisan kembali ke sedia kala. Saat party ke lantai atas di Textill Mill dan hendak turun, **Philip akhirnya bergabung ke Discord dan kembali aktif bersama party.** Tidak lama setelah Philip masuk, party menemui diri mereka berpindah dimensi ke suatu Kamar anak kecil perempuan yang sedang Tea Party dengan boneka-bonekanya, anak perempuan itu berbicara dengan party dan mengaku bahwa Tsu sekarang itu dulunya adalah mainan Marionette miliknya. Party meminta tolong ke Thania (anak perempuan tadi) untuk mengembalikan Tsu ke wujud manusianya, namun belum selesai tiba-tiba sesosok Hag tua membuka pintu dan melempar Party keluar Dimensi, berawal terkurung di dalam jam pasir raksasa, party tiba-tiba terjatuh ditengah gurun pasir, dan Suara Jabberwock menyambut mereka di kejauhan, Jabberwock di akhir berhasil menemukan party dan sesi berakhir disitu
+Party dalam bentuk mainan berhasil keluar akibat kekuatan tubuh Zekrom sebagai mainan metal yang bisa berubah menjadi Mainan Kereta, lewat lubang tikus di bawah mereka berhasil kembali ke atas di area garden dan bertemu seorang naak kecil bernama Mishka yang sedang ketakutan karena ada ular di dekatnya, arty berhasil mengusir ular tersebut. Dengan Mishka party mencoba membujuknya untuk mengarahkan party ke area bingkai foto, disini Party mempelajari bahwa Miskha adalah salah satu anak yang diculik Skabatha tapi anehnya origin storynya dia bilang kalau Skabatha mengajak Mishka ke Thither karena Mishka bisa "magic", di bingka party melihat gambar foto Bavlornya namun saat party mencoba meraih bingkai, party tergores oleh duri yang mengitari bingkai dan lukisan bingkai berubah seolah menampilkan foto keluarga atau sosok keluarga bagi anggota yan gbaru saja tergores, namun saat Mishka yang tergores susnan lukisan kembali ke sedia kala. Saat party ke lantai atas di Textill Mill dan hendak turun, party menemui diri mereka berpindah dimensi ke suatu Kamar anak kecil perempuan yang sedang Tea Party dengan boneka-bonekanya, anak perempuan itu berbicara dengan party dan mengaku bahwa Tsu sekarang itu dulunya adalah mainan Marionette miliknya. Party meminta tolong ke Thania (anak perempuan tadi) untuk mengembalikan Tsu ke wujud manusianya, namun belum selesai tiba-tiba sesosok Hag tua membuka pintu dan melempar Party keluar Dimensi, berawal terkurung di dalam jam pasir raksasa, party tiba-tiba terjatuh ditengah gurun pasir, dan Suara Jabberwock menyambut mereka di kejauhan, Jabberwock di akhir berhasil menemukan party dan sesi berakhir disitu
 
 ## Next Session Hooks
 
